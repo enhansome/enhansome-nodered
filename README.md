@@ -105,7 +105,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - SNMP receivers for single OIDs or OID tables.
 * [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
 * [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends a Wake-On-LAN magic packet to the mac address specified.
-* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 346 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-30 - All in one Modbus TCP and Serial package.
+* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 346 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-14 - All in one Modbus TCP and Serial package.
 * [s7](https://github.com/st-one-io/node-red-contrib-s7) ⭐ 133 | 🐛 45 | 🌐 HTML | 📅 2026-01-15 - Interact with Siemens S7 PLCs.
 * [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) ⭐ 50 | 🐛 20 | 🌐 TypeScript | 📅 2024-09-06 - Upload timeseries, files and events to MindSphere.
 * [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) ⭐ 20 | 🐛 13 | 🌐 JavaScript | 📅 2021-01-19 - Single "Xiaomi BLE" node that gets all known data from Xiaomi BLE (Bluetooth 4).
@@ -174,7 +174,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Connect to an XMPP server to send and receive messages.
 * [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 982 | 🐛 32 | 🌐 HTML | 📅 2026-06-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
 * [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 301 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-10 - Contains a receiver and a sender node which act as a Telegram Bot.
-* [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 55 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
+* [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
 * [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-06 - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
 * [whin](https://github.com/inUtil-info/node-red-contrib-whin) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2022-11-03 - Send and receive whatsapps from within a nodered flow.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

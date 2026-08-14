@@ -676,7 +676,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-30T07:39:57Z",
+            "last_commit": "2026-08-14T17:10:33Z",
             "owner": "BiancoRoyal",
             "repo": "node-red-contrib-modbus",
             "stars": 346
@@ -1440,7 +1440,7 @@
             "last_commit": "2024-09-01T23:16:59Z",
             "owner": "Markoudstaal",
             "repo": "node-red-contrib-discord-advanced",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -1953,7 +1953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:39:58.036Z",
+    "last_updated": "2026-08-14T19:34:02.860Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
     "enhanced_repository": "enhansome/enhansome-nodered",
