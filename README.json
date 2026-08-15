@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T17:53:53Z",
+            "last_commit": "2026-08-15T18:40:34Z",
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53
@@ -842,7 +842,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T22:25:30Z",
+            "last_commit": "2026-08-15T03:25:56Z",
             "owner": "Foddy",
             "repo": "node-red-contrib-huemagic",
             "stars": 202
@@ -1953,7 +1953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:34:02.860Z",
+    "last_updated": "2026-08-15T18:59:41.645Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
     "enhanced_repository": "enhansome/enhansome-nodered",
