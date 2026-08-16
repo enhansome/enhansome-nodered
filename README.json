@@ -831,7 +831,7 @@
             "last_commit": "2026-06-21T10:30:26Z",
             "owner": "NRCHKB",
             "repo": "node-red-contrib-homekit-bridged",
-            "stars": 444
+            "stars": 443
           }
         },
         {
@@ -842,7 +842,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T03:25:56Z",
+            "last_commit": "2026-08-16T18:25:11Z",
             "owner": "Foddy",
             "repo": "node-red-contrib-huemagic",
             "stars": 202
@@ -1423,7 +1423,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T13:27:54Z",
+            "last_commit": "2026-08-16T07:07:33Z",
             "owner": "windkh",
             "repo": "node-red-contrib-telegrambot",
             "stars": 301
@@ -1527,7 +1527,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-07T06:54:14Z",
+            "last_commit": "2026-08-16T09:23:24Z",
             "owner": "martin-doyle",
             "repo": "node-red-contrib-aedes",
             "stars": 71
@@ -1953,7 +1953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:59:41.645Z",
+    "last_updated": "2026-08-16T18:59:22.766Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
     "enhanced_repository": "enhansome/enhansome-nodered",
