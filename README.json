@@ -887,7 +887,7 @@
             "last_commit": "2026-07-08T19:27:36Z",
             "owner": "bbindreiter",
             "repo": "node-red-contrib-alexa-remote2-applestrudel",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -1423,7 +1423,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T07:07:33Z",
+            "last_commit": "2026-08-17T07:03:32Z",
             "owner": "windkh",
             "repo": "node-red-contrib-telegrambot",
             "stars": 301
@@ -1953,7 +1953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:59:22.766Z",
+    "last_updated": "2026-08-17T19:10:12.391Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
     "enhanced_repository": "enhansome/enhansome-nodered",
