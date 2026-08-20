@@ -15,7 +15,7 @@
             "last_commit": "2026-07-30T22:05:03Z",
             "owner": "node-red",
             "repo": "node-red-docker",
-            "stars": 538
+            "stars": 539
           }
         },
         {
@@ -917,7 +917,7 @@
                 "archived": false,
                 "id": 198852178,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T07:14:09Z",
+                "last_commit": "2026-08-20T10:27:01Z",
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
                 "stars": 178
@@ -1525,7 +1525,7 @@
                 "archived": false,
                 "id": 49324815,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:13:01Z",
+                "last_commit": "2026-08-20T18:41:57Z",
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301
@@ -2051,7 +2051,7 @@
                 "last_commit": "2026-08-11T01:02:52Z",
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:05:24.989Z",
+    "last_updated": "2026-08-20T19:16:43.315Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_id": 422856484,
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
