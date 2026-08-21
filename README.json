@@ -771,7 +771,7 @@
                 "last_commit": "2021-01-19T11:24:17Z",
                 "owner": "eschava",
                 "repo": "node-red-contrib-xiaomi-ble",
-                "stars": 20
+                "stars": 19
               }
             },
             {
@@ -917,7 +917,7 @@
                 "archived": false,
                 "id": 198852178,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T10:27:01Z",
+                "last_commit": "2026-08-21T13:00:39Z",
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
                 "stars": 178
@@ -1513,7 +1513,7 @@
                 "last_commit": "2026-06-30T17:30:54Z",
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
-                "stars": 982
+                "stars": 981
               }
             },
             {
@@ -1525,7 +1525,7 @@
                 "archived": false,
                 "id": 49324815,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T18:41:57Z",
+                "last_commit": "2026-08-20T21:02:45Z",
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:16:43.315Z",
+    "last_updated": "2026-08-21T19:08:43.480Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_id": 422856484,
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
