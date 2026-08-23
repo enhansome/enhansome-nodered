@@ -890,7 +890,7 @@
                 "last_commit": "2026-06-21T10:30:26Z",
                 "owner": "NRCHKB",
                 "repo": "node-red-contrib-homekit-bridged",
-                "stars": 443
+                "stars": 444
               }
             },
             {
@@ -1525,7 +1525,7 @@
                 "archived": false,
                 "id": 49324815,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T21:02:45Z",
+                "last_commit": "2026-08-23T06:49:14Z",
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301
@@ -1834,7 +1834,7 @@
                 "last_commit": "2024-11-19T19:20:18Z",
                 "owner": "naimo84",
                 "repo": "node-red-contrib-ical-events",
-                "stars": 49
+                "stars": 48
               }
             },
             {
@@ -2036,7 +2036,7 @@
                 "last_commit": "2025-08-07T18:03:52Z",
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
-                "stars": 1406
+                "stars": 1407
               }
             },
             {
@@ -2051,7 +2051,7 @@
                 "last_commit": "2026-08-11T01:02:52Z",
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
-                "stars": 525
+                "stars": 526
               }
             },
             {
@@ -2094,7 +2094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:01:02.087Z",
+    "last_updated": "2026-08-23T19:00:45.132Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_id": 422856484,
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",

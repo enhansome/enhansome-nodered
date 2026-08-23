@@ -127,9 +127,9 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ### Smarthome
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 597 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-19 - Various nodes using websockets to assist in setting up communication with Home Assistant.
-* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 443 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
+* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 202 | 🐛 0 | 🌐 HTML | 📅 2026-08-19 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
-* [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
+* [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-22 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 114 | 🐛 1 | 🌐 HTML | 📅 2026-05-12 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⭐ 106 | 🐛 44 | 🌐 HTML | 📅 2026-07-08 - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 * [zigbee2mqtt](https://github.com/andreypopov/node-red-contrib-zigbee2mqtt) ⭐ 101 | 🐛 44 | 🌐 JavaScript | 📅 2026-03-26 - Zigbee2mqtt connectivity.
@@ -173,7 +173,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
 * [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Connect to an XMPP server to send and receive messages.
 * [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 981 | 🐛 32 | 🌐 HTML | 📅 2026-06-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
-* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 301 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-20 - Contains a receiver and a sender node which act as a Telegram Bot.
+* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 301 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-23 - Contains a receiver and a sender node which act as a Telegram Bot.
 * [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
 * [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-06 - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
@@ -202,7 +202,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [daemon](https://github.com/node-red/node-red-nodes/tree/master/utility/daemon) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Starts up (calls) a long running system program and pipes STDIN, STDOUT and STDERR to and from that process.
 * [exif](https://github.com/node-red/node-red-nodes/tree/master/utility/exif) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Extracts GPS and other EXIF information from a passed in jpeg image.
 * [watson](https://github.com/watson-developer-cloud/node-red-node-watson) ⭐ 81 | 🐛 38 | 🌐 HTML | 📅 2022-03-28 - Interact with the IBM Watson services in IBM Cloud.
-* [ical-events](https://github.com/naimo84/node-red-contrib-ical-events) ⭐ 49 | 🐛 32 | 🌐 TypeScript | 📅 2024-11-19 - Get events from an ical-URL, a caldav-server or from iCloud via [kalender-events](https://github.com/naimo84/kalender-events) ⭐ 20 | 🐛 18 | 🌐 TypeScript | 📅 2026-02-16.
+* [ical-events](https://github.com/naimo84/node-red-contrib-ical-events) ⭐ 48 | 🐛 32 | 🌐 TypeScript | 📅 2024-11-19 - Get events from an ical-URL, a caldav-server or from iCloud via [kalender-events](https://github.com/naimo84/kalender-events) ⭐ 20 | 🐛 18 | 🌐 TypeScript | 📅 2026-02-16.
 * [actionflows](https://github.com/Steveorevo/node-red-contrib-actionflows) ⭐ 44 | 🐛 6 | 🌐 JavaScript | 📅 2022-02-07 - Brings easy to use loops and OOP (object oriented programming) features.
 * [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) ⚠️ Archived - Making Node-RED more resilient by adding self-healing capabilities.
 * [moment](https://github.com/totallyinformation/node-red-contrib-moment) ⭐ 34 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-16 - Produces a nicely formatted Date/Time string using the Moment.js library.
@@ -219,11 +219,11 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### UI
 
-* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,406 | 🐛 93 | 🌐 HTML | 📅 2025-08-07 - Create a live data dashboard.
+* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,407 | 🐛 93 | 🌐 HTML | 📅 2025-08-07 - Create a live data dashboard.
   * [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - Dashboard extra nodes.
   * [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
   * [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
-* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 525 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
+* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 526 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 * [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 119 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-11 - Provide a world map web page for plotting "things" on.
 * [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2022-09-23 - Add browser functionality such as file upload, camera & microphone.
 * [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
