@@ -222,6 +222,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "typescript-starter",
+              "description": "Quick-start template repository for creating new node sets in TypeScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285841987,
+                "language": "Mustache",
+                "last_commit": "2026-08-04T14:56:07Z",
+                "owner": "alexk111",
+                "repo": "node-red-node-typescript-starter",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "datagenerater",
               "description": "Generate dummy data in various formats, names, addresses, emails, numbers, words, etc.",
               "children": [],
@@ -798,6 +820,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "image-output",
+              "description": "Simple image output node. Useful for previewing images (of face detecting, object recognition etc.) inside the flow editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121052134,
+                "language": "HTML",
+                "last_commit": "2023-08-05T16:21:39Z",
+                "owner": "rikukissa",
+                "repo": "node-red-contrib-image-output",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "base64",
               "description": "Converts a payload to/from base64 encoded format.",
               "children": [],
@@ -917,7 +961,7 @@
                 "archived": false,
                 "id": 198852178,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T18:03:57Z",
+                "last_commit": "2026-08-24T14:14:19Z",
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
                 "stars": 178
@@ -1525,7 +1569,7 @@
                 "archived": false,
                 "id": 49324815,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T06:49:14Z",
+                "last_commit": "2026-08-24T07:06:18Z",
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301
@@ -1722,7 +1766,7 @@
                 "last_commit": "2026-06-24T21:47:28Z",
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-sun-position",
-                "stars": 111
+                "stars": 110
               }
             },
             {
@@ -2094,7 +2138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:00:45.132Z",
+    "last_updated": "2026-08-24T14:21:35.790Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_id": 422856484,
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
