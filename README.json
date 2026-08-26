@@ -961,7 +961,7 @@
                 "archived": false,
                 "id": 198852178,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T14:57:42Z",
+                "last_commit": "2026-08-26T13:52:20Z",
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
                 "stars": 178
@@ -1766,7 +1766,7 @@
                 "last_commit": "2026-06-24T21:47:28Z",
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-sun-position",
-                "stars": 110
+                "stars": 111
               }
             },
             {
@@ -2138,7 +2138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:13:35.647Z",
+    "last_updated": "2026-08-26T21:10:07.594Z",
     "original_repository": "naimo84/awesome-nodered",
     "original_repository_id": 422856484,
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
