@@ -946,7 +946,7 @@
                 "archived": false,
                 "id": 103281705,
                 "language": "HTML",
-                "last_commit": "2026-08-19T08:16:10Z",
+                "last_commit": "2026-08-27T10:45:21Z",
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
                 "stars": 202
@@ -1129,7 +1129,7 @@
                 "last_commit": "2023-10-11T08:48:09Z",
                 "owner": "hobbyquaker",
                 "repo": "node-red-contrib-lgtv",
-                "stars": 59
+                "stars": 60
               }
             },
             {
@@ -1557,7 +1557,7 @@
                 "last_commit": "2026-06-30T17:30:54Z",
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
-                "stars": 981
+                "stars": 982
               }
             },
             {
@@ -2138,9 +2138,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:10:07.594Z",
-    "original_repository": "naimo84/awesome-nodered",
-    "original_repository_id": 422856484,
+    "last_updated": "2026-08-27T11:53:36.954Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 422856484,
+      "language": null,
+      "last_commit": "2023-02-23T06:12:18Z",
+      "owner": "naimo84",
+      "repo": "awesome-nodered",
+      "stars": 548
+    },
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
     "enhanced_repository": "enhansome/enhansome-nodered",
     "enhanced_repository_description": null,
