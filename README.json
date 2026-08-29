@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for all things Node-RED and Docker related",
+            "homepage": null,
             "id": 63426680,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T22:05:03Z",
+            "open_issues": 22,
             "owner": "node-red",
             "repo": "node-red-docker",
-            "stars": 539
+            "stars": 539,
+            "topics": [
+              "docker",
+              "hacktoberfest",
+              "node-red"
+            ]
           },
           "first_seen": "2026-08-29T01:54:22.229Z"
         },
@@ -26,12 +35,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node-RED packaged as Addon for the Homematic CCU3 and RaspberryMatic 🤹‍♂️",
+            "homepage": null,
             "id": 131438939,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T14:17:22Z",
+            "open_issues": 178,
             "owner": "rdmtc",
             "repo": "RedMatic",
-            "stars": 532
+            "stars": 532,
+            "topics": [
+              "addon",
+              "ccu",
+              "home-automation",
+              "homekit",
+              "homematic",
+              "iot",
+              "mqtt",
+              "node-red",
+              "raspberrymatic",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-29T01:54:22.229Z"
         },
@@ -42,12 +67,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ready-to-use Node-RED setup for home automation",
+            "homepage": "https://ct.de/smarthome",
             "id": 165840789,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2023-09-12T21:35:09Z",
+            "open_issues": 26,
             "owner": "ct-Open-Source",
             "repo": "ct-Smart-Home",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "bluetooth-low-energy",
+              "docker",
+              "fritzbox",
+              "home-automation",
+              "homekit",
+              "mosquitto",
+              "mqtt",
+              "node-red",
+              "nodered",
+              "raspberrypi",
+              "raspberrypi-home-automation",
+              "smarthome",
+              "tado",
+              "zigbee2mqtt"
+            ]
           },
           "first_seen": "2026-08-29T01:54:22.229Z"
         },
@@ -58,12 +103,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instantiate the server with node-red",
+            "homepage": null,
             "id": 26142417,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T18:40:34Z",
+            "open_issues": 27,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "iobroker",
+              "node-red",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-29T01:54:22.229Z"
         }
@@ -82,12 +136,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -98,12 +160,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -121,12 +191,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -137,12 +215,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -153,12 +239,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -169,12 +263,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED nodes to save and query data from an influxdb time series database",
+                "homepage": null,
                 "id": 43993817,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-02T08:16:58Z",
+                "open_issues": 37,
                 "owner": "mblackstock",
                 "repo": "node-red-contrib-influxdb",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "influxdb",
+                  "maintainer-wanted",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -185,12 +288,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node-RED node to read and write to Microsoft MS SQL Databases",
+                "homepage": null,
                 "id": 130831735,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-05-13T01:05:06Z",
+                "open_issues": 21,
                 "owner": "bestlong",
                 "repo": "node-red-contrib-mssql-plus",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "hacktoberfest",
+                  "mssql",
+                  "node-red",
+                  "node-red-contrib",
+                  "nodered"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -201,12 +315,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED node to read and write to an InfluxDB v2 database.",
+                "homepage": null,
                 "id": 262975986,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-03-02T19:38:54Z",
+                "open_issues": 16,
                 "owner": "stackhero-io",
                 "repo": "node-red-contrib-stackhero-influxdb-v2",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "influxdb2",
+                  "node-red",
+                  "node-red-contrib",
+                  "stackhero"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -217,12 +341,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED node to read and write to a MySQL or a MariaDB database. Compatible with TLS (SSL) and \"Caching SHA2 password\" authentication method.",
+                "homepage": null,
                 "id": 262975533,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-10-06T15:07:04Z",
+                "open_issues": 1,
                 "owner": "stackhero-io",
                 "repo": "node-red-contrib-stackhero-mysql",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "mariadb",
+                  "mysql",
+                  "node-red",
+                  "node-red-contrib",
+                  "stackhero"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -240,12 +375,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏁 Quick-start template repository for creating new Node-RED node sets in TypeScript.",
+                "homepage": null,
                 "id": 285841987,
                 "language": "Mustache",
+                "license": "MIT",
                 "last_commit": "2026-08-04T14:56:07Z",
+                "open_issues": 1,
                 "owner": "alexk111",
                 "repo": "node-red-node-typescript-starter",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "node",
+                  "node-red",
+                  "nodejs",
+                  "starter",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -263,12 +409,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -279,12 +433,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -295,12 +457,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -311,12 +481,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -327,12 +505,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -350,12 +536,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -366,12 +560,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -382,12 +584,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -398,12 +608,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -414,12 +632,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -430,12 +656,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -446,12 +680,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -462,12 +704,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -478,12 +728,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -494,12 +752,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -510,12 +776,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -526,12 +800,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -542,12 +824,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -558,12 +848,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -574,12 +872,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -590,12 +896,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -606,12 +920,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -622,12 +944,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -638,12 +968,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -661,12 +999,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -677,12 +1023,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -693,12 +1047,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -709,12 +1071,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -725,12 +1095,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -741,12 +1119,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -757,12 +1143,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -773,12 +1167,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -789,12 +1191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "maintained by PLUS for Node-RED - https://plus4nodered.com",
+                "homepage": "https://www.npmjs.com/package/node-red-contrib-modbus",
                 "id": 79369308,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-14T17:10:33Z",
+                "open_issues": 5,
                 "owner": "BiancoRoyal",
                 "repo": "node-red-contrib-modbus",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -805,12 +1212,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node-RED node to interact with Siemens S7 PLCs",
+                "homepage": null,
                 "id": 61574710,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-15T13:09:24Z",
+                "open_issues": 45,
                 "owner": "st-one-io",
                 "repo": "node-red-contrib-s7",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "node-red",
+                  "plc",
+                  "siemens-s7-plcs"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -821,12 +1237,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED Agent for the MindConnect API (community driven project)",
+                "homepage": "https://opensource.mindsphere.io/docs/node-red-contrib-mindconnect/index.html",
                 "id": 155538725,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-06T10:29:19Z",
+                "open_issues": 20,
                 "owner": "mindsphere",
                 "repo": "node-red-contrib-mindconnect",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "industrial-iot",
+                  "insights-hub",
+                  "mindconnect",
+                  "node-red",
+                  "node-red-contrib",
+                  "nodejs",
+                  "siemens",
+                  "siemens-xcelerator"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -837,12 +1267,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xiaomi Bluetooth4 (BLE) sensors",
+                "homepage": null,
                 "id": 136331903,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-19T11:24:17Z",
+                "open_issues": 13,
                 "owner": "eschava",
                 "repo": "node-red-contrib-xiaomi-ble",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "ble",
+                  "bluet",
+                  "bluetooth",
+                  "miflora",
+                  "mijia",
+                  "node-red",
+                  "nodered",
+                  "xia",
+                  "xiaomi"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -853,12 +1298,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node-RED module based on noble for interaction with Bluetooth Low Energy (BLE) devices.",
+                "homepage": null,
                 "id": 262648957,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-13T02:04:51Z",
+                "open_issues": 12,
                 "owner": "clausbroch",
                 "repo": "node-red-contrib-noble-bluetooth",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ble",
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "noble",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -876,12 +1332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏞 Easy way of previewing and examining images in your flows",
+                "homepage": null,
                 "id": 121052134,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-08-05T16:21:39Z",
+                "open_issues": 6,
                 "owner": "rikukissa",
                 "repo": "node-red-contrib-image-output",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -899,12 +1360,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -915,12 +1384,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -931,12 +1408,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -947,12 +1432,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -970,12 +1463,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED integration with Home Assistant",
+                "homepage": "https://zachowj.github.io/node-red-contrib-home-assistant-websocket/",
                 "id": 149000442,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T09:02:43Z",
+                "open_issues": 51,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
-                "stars": 597
+                "stars": 597,
+                "topics": [
+                  "home",
+                  "home-assistant",
+                  "home-automation",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -986,12 +1489,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED Contribution - HomeKit Bridged : Node-RED nodes to simulate Apple HomeKit devices.",
+                "homepage": "https://nrchkb.github.io",
                 "id": 129360006,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-21T10:30:26Z",
+                "open_issues": 27,
                 "owner": "NRCHKB",
                 "repo": "node-red-contrib-homekit-bridged",
-                "stars": 444
+                "stars": 444,
+                "topics": [
+                  "home-automation",
+                  "homekit",
+                  "homekit-bridge",
+                  "iot",
+                  "node-red",
+                  "node-red-contrib",
+                  "nrchkb"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1002,12 +1518,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Philips Hue nodes for Node-RED to control bridges, lights, groups, scenes, rules, automations, switches, dials, buttons, doorbells, speakers, motion & contact sensors, cameras, temperature & light level sensors and the Hue Play HDMI Sync Box — CLIP/v2 API, Hue Bridge Pro & MotionAware support.",
+                "homepage": "https://flows.nodered.org/node/node-red-contrib-huemagic",
                 "id": 103281705,
                 "language": "HTML",
-                "last_commit": "2026-08-27T10:45:21Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:15:01Z",
+                "open_issues": 0,
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "home-automation",
+                  "node-red",
+                  "philips-hue"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1018,12 +1543,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control your KNX intallation via Node-Red! A bunch of KNX nodes, with integrated Philips HUE control and ETS group address importer.",
+                "homepage": "https://youtu.be/egRbR_KwP9I",
                 "id": 198852178,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:06:27Z",
+                "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "eib",
+                  "hue",
+                  "iot",
+                  "knx",
+                  "konnex",
+                  "node-red",
+                  "nodered"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1034,12 +1572,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Red Google Home integration",
+                "homepage": "https://smart-nora.eu/",
                 "id": 330404071,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-12T07:44:11Z",
+                "open_issues": 1,
                 "owner": "andrei-tatar",
                 "repo": "node-red-contrib-smartnora",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "google-home",
+                  "google-home-assistant",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1050,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-Red Nodes for interacting with Alexa",
+                "homepage": "https://flows.nodered.org/node/node-red-contrib-alexa-remote2-applestrudel",
                 "id": 373109285,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-07-08T19:27:36Z",
+                "open_issues": 44,
                 "owner": "bbindreiter",
                 "repo": "node-red-contrib-alexa-remote2-applestrudel",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1066,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zigbee2mqtt connectivity nodes for node-red",
+                "homepage": null,
                 "id": 250438951,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-26T20:39:32Z",
+                "open_issues": 44,
                 "owner": "andreypopov",
                 "repo": "node-red-contrib-zigbee2mqtt",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1082,12 +1639,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Homebridge and Node-RED Integration",
+                "homepage": null,
                 "id": 169907649,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T16:11:56Z",
+                "open_issues": 10,
                 "owner": "NorthernMan54",
                 "repo": "node-red-contrib-homebridge-automation",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "homebridge",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1098,12 +1663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-Red Nodes for deCONZ connectivity.",
+                "homepage": null,
                 "id": 191546716,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-02T13:06:32Z",
+                "open_issues": 0,
                 "owner": "deconz-community",
                 "repo": "node-red-contrib-deconz",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1114,12 +1684,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Node-RED Nodes for ZigBee Devices 🐝",
+                "homepage": null,
                 "id": 166879513,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-28T17:06:21Z",
+                "open_issues": 64,
                 "owner": "hobbyquaker",
                 "repo": "node-red-contrib-zigbee",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "aqara",
+                  "cc2531",
+                  "home-automation",
+                  "hue",
+                  "node-red",
+                  "smarthome",
+                  "tradfri",
+                  "zigbee",
+                  "zigbee-herdsman",
+                  "zigbee-shepherd"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1130,12 +1716,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of Node-RED nodes to control SONOS player in your local network.",
+                "homepage": null,
                 "id": 201809472,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-11T15:17:43Z",
+                "open_issues": 7,
                 "owner": "hklages",
                 "repo": "node-red-contrib-sonos-plus",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "node-red",
+                  "sonos"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1146,12 +1740,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect the Loxone Miniserver to node-red via the Websocket API",
+                "homepage": null,
                 "id": 83245239,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-04-19T07:56:55Z",
+                "open_issues": 22,
                 "owner": "codmpm",
                 "repo": "node-red-contrib-loxone",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "home-automation",
+                  "loxone",
+                  "loxone-miniserver",
+                  "node-red",
+                  "smarthome",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1162,12 +1768,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Home Assistant + Node-Red",
+                "homepage": null,
                 "id": 87676691,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-09-30T10:57:56Z",
+                "open_issues": 36,
                 "owner": "AYapejian",
                 "repo": "node-red-contrib-home-assistant",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "home-assistant",
+                  "home-automation",
+                  "iot",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1178,12 +1794,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED Nodes for the Homematic CCU",
+                "homepage": "https://flows.nodered.org/node/node-red-contrib-ccu",
                 "id": 131439304,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-18T08:23:48Z",
+                "open_issues": 62,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "ccu",
+                  "homematic",
+                  "node-red",
+                  "raspberrymatic",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1194,12 +1821,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED Nodes to control LG webOS Smart TVs :tv:",
+                "homepage": "http://flows.nodered.org/node/node-red-contrib-lgtv",
                 "id": 86615407,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-11T08:48:09Z",
+                "open_issues": 48,
                 "owner": "hobbyquaker",
                 "repo": "node-red-contrib-lgtv",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "lg",
+                  "node-red",
+                  "smart",
+                  "smart-tv",
+                  "tv",
+                  "webos"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1210,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic Fritzbox node for node-RED, giving access to tr064 api",
+                "homepage": null,
                 "id": 55836664,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-26T01:25:57Z",
+                "open_issues": 15,
                 "owner": "bashGroup",
                 "repo": "node-red-contrib-fritz",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1226,12 +1870,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most powerful, high performing and highly polished Z-Wave node for Node-RED based on Z-Wave JS. If you want a fully featured Z-Wave framework in your Node-RED instance, you have found it.",
+                "homepage": null,
                 "id": 323958782,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-09T19:32:17Z",
+                "open_issues": 0,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "automation",
+                  "controller",
+                  "home",
+                  "home-automation",
+                  "node-red",
+                  "smart",
+                  "zwave",
+                  "zwave-js"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1242,12 +1900,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeRED nodes to get data from tuya smart devices (like smart plugs, bulbs, ...).",
+                "homepage": null,
                 "id": 156126705,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-09-07T09:25:21Z",
+                "open_issues": 6,
                 "owner": "hgross",
                 "repo": "node-red-contrib-tuya-smart",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "iot",
+                  "node-red",
+                  "node-red-contrib",
+                  "smart-home",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1258,12 +1927,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "access the homee api with node-red",
+                "homepage": null,
                 "id": 103302727,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-24T01:37:31Z",
+                "open_issues": 10,
                 "owner": "stfnhmplr",
                 "repo": "node-red-contrib-homee",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "homee",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1274,12 +1951,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 120467870,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T12:44:27Z",
+                "open_issues": 6,
                 "owner": "mabunixda",
                 "repo": "node-red-contrib-alexa-home",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "alexa",
+                  "node-red",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1290,12 +1976,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tado web API client node for Node Red",
+                "homepage": null,
                 "id": 142469924,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-11-07T20:35:58Z",
+                "open_issues": 18,
                 "owner": "mattdavis90",
                 "repo": "node-red-contrib-tado-client",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1306,12 +1997,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tasmota devices for NodeRed",
+                "homepage": null,
                 "id": 225248058,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-01-04T08:42:13Z",
+                "open_issues": 4,
                 "owner": "DaveMDS",
                 "repo": "node-red-contrib-tasmota",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "home-automation",
+                  "node-red",
+                  "sonoff",
+                  "tasmota"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1322,12 +2023,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED node to connect to Yamaha Audio Video Receivers (e.g. Yamaha AVR RX-677)",
+                "homepage": null,
                 "id": 52154104,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-09T15:01:21Z",
+                "open_issues": 5,
                 "owner": "krauskopf",
                 "repo": "node-red-contrib-avr-yamaha",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "avr-yamaha",
+                  "node-red",
+                  "upnp-listener",
+                  "volume",
+                  "yamaha-receiver"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1338,12 +2050,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Home automation node for Fritz!Box, Fritz!DECT and FRITZ!Powerline devices.",
+                "homepage": null,
                 "id": 173176421,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-18T20:28:17Z",
+                "open_issues": 3,
                 "owner": "dnknth",
                 "repo": "node-red-contrib-fritzapi",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "fritzbox",
+                  "node-red",
+                  "node-red-contrib",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1354,12 +2076,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED module to control a Somfy Tahoma box (Roller shutters...). Used for home automation flows.",
+                "homepage": null,
                 "id": 114521020,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T18:53:00Z",
+                "open_issues": 21,
                 "owner": "nikkow",
                 "repo": "node-red-contrib-tahoma",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "blinds",
+                  "domotique",
+                  "flow",
+                  "home-automation",
+                  "node-red",
+                  "position",
+                  "roller-shutters",
+                  "somfy",
+                  "tahoma",
+                  "tahoma-box"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1375,12 +2113,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Web Service/ API for Alexa and Google Home Node-RED Smart Home Control",
+                    "homepage": "https://red.cb-net.co.uk/",
                     "id": 149762219,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-12-23T05:03:53Z",
+                    "open_issues": 34,
                     "owner": "coldfire84",
                     "repo": "node-red-alexa-home-skill-v3-web",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "alexa-custom-skill",
+                      "alexa-skill",
+                      "alexa-skills-kit",
+                      "google-actions",
+                      "google-assistant-actions",
+                      "google-home",
+                      "home-automation",
+                      "node-red",
+                      "node-red-contrib",
+                      "node-red-flow",
+                      "smart-home",
+                      "voice-control"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:54:22.229Z"
                 },
@@ -1391,24 +2147,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 149807316,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-11-30T10:09:24Z",
+                    "open_issues": 0,
                     "owner": "coldfire84",
                     "repo": "node-red-alexa-home-skill-v3-lambda",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:54:22.229Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A Node-RED node to control things via Amazon Alexa *and* Google Home",
+                "homepage": "https://red.cb-net.co.uk/",
                 "id": 149855802,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-21T11:33:12Z",
+                "open_issues": 7,
                 "owner": "coldfire84",
                 "repo": "node-red-contrib-alexa-home-skill-v3",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1419,12 +2185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 237867617,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-15T10:52:39Z",
+                "open_issues": 7,
                 "owner": "fblackburn1",
                 "repo": "node-red-contrib-hubitat",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1435,12 +2206,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED integration for Harmony hub",
+                "homepage": null,
                 "id": 75539434,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-12-10T13:30:09Z",
+                "open_issues": 18,
                 "owner": "Aietes",
                 "repo": "node-red-contrib-harmony",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "harmony",
+                  "harmony-hub",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1451,12 +2231,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Provides support for OpenHAB (v3) connectivity via a package in Node-RED",
+                "homepage": "https://flows.nodered.org/node/node-red-contrib-openhab3",
                 "id": 122747795,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-20T16:08:07Z",
+                "open_issues": 13,
                 "owner": "jeroenhe",
                 "repo": "node-red-contrib-openhab3",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "openhab3"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -1474,12 +2261,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1490,12 +2285,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1506,12 +2309,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1522,12 +2333,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1538,12 +2357,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1554,12 +2381,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1570,12 +2405,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1586,12 +2429,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1602,12 +2453,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1618,12 +2477,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1634,12 +2501,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1650,12 +2525,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.",
+                "homepage": "http://red-bot.io",
                 "id": 61793256,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-30T17:30:54Z",
+                "open_issues": 32,
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
-                "stars": 982
+                "stars": 982,
+                "topics": [
+                  "chatbot",
+                  "messenger",
+                  "slack",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1666,12 +2551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram bot nodes for node-red.",
+                "homepage": null,
                 "id": 49324815,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T19:04:50Z",
+                "open_issues": 4,
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
-                "stars": 301
+                "stars": 301,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1682,12 +2572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recieve, send, edit and delete Discord messages in node-red.",
+                "homepage": null,
                 "id": 387017807,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-01T23:16:59Z",
+                "open_issues": 21,
                 "owner": "Markoudstaal",
                 "repo": "node-red-contrib-discord-advanced",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1698,12 +2593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node-red module to post to Slack.com",
+                "homepage": null,
                 "id": 30042879,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-06T18:35:25Z",
+                "open_issues": 11,
                 "owner": "travisghansen",
                 "repo": "node-red-slack",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1714,12 +2614,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node-red connector for remote instances of wa-automate-nodejs. Be sure to 🌟 this repository for updates!",
+                "homepage": null,
                 "id": 371435883,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-06T03:39:15Z",
+                "open_issues": 3,
                 "owner": "open-wa",
                 "repo": "node-red-contrib-wa-automate",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "automation",
+                  "chatbots",
+                  "homeassistant-integration",
+                  "node-red",
+                  "node-red-contrib",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1730,12 +2642,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SEE NEW VERSION, this one is DEPRECATED - check the new version of whin,",
+                "homepage": null,
                 "id": 434426377,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-03T10:58:07Z",
+                "open_issues": 0,
                 "owner": "inUtil-info",
                 "repo": "node-red-contrib-whin",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "node-red",
+                  "node-red-contrib",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1746,12 +2667,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Node-RED collection by seven.",
+                "homepage": "https://www.seven.io/en/solutions/integrations/node-red/",
                 "id": 268733891,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-20T04:35:54Z",
+                "open_issues": 8,
                 "owner": "seven-io",
                 "repo": "node-red",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "automation",
+                  "low-code",
+                  "node-red",
+                  "node-red-contrib",
+                  "nodered",
+                  "nodered-nodes",
+                  "seven-plugin",
+                  "sms",
+                  "text2speech",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1762,12 +2699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 341012983,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-08T11:23:20Z",
+                "open_issues": 2,
                 "owner": "pantchox",
                 "repo": "node-red-contrib-pushstaq",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -1785,12 +2727,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MQTT broker for Node-RED based on Aedes",
+                "homepage": null,
                 "id": 240750230,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T09:23:24Z",
+                "open_issues": 11,
                 "owner": "martin-doyle",
                 "repo": "node-red-contrib-aedes",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "aedes",
+                  "mqtt-broker",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1801,12 +2752,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connects Node RED with Docker daemon ",
+                "homepage": "https://naimo84.github.io/node-red-contrib-dockerode",
                 "id": 204876027,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-05-19T17:36:35Z",
+                "open_issues": 8,
                 "owner": "naimo84",
                 "repo": "node-red-contrib-dockerode",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "docker",
+                  "node-red-contrib",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1817,12 +2777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-Red nodes for obtaining cpu system information.",
+                "homepage": null,
                 "id": 49225531,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-06T12:43:03Z",
+                "open_issues": 2,
                 "owner": "Argonne-National-Laboratory",
                 "repo": "node-red-contrib-os",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -1840,12 +2805,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1856,12 +2829,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1872,12 +2853,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a ultimate Node-Red Timer, Sun, Moon and Blind flow control.",
+                "homepage": null,
                 "id": 154213263,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-24T21:47:28Z",
+                "open_issues": 94,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-sun-position",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "blind-control",
+                  "moon-position",
+                  "node-red",
+                  "sun-position",
+                  "timestamp"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1888,12 +2880,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "node-RED node that determines blind position based on the position of the sun and climatic conditions",
+                "homepage": null,
                 "id": 44658446,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-05T08:02:48Z",
+                "open_issues": 15,
                 "owner": "alisdairjsmyth",
                 "repo": "node-red-contrib-blindcontroller",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "blind",
+                  "node-red",
+                  "sun-position"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1904,12 +2905,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight node-red node to provide and format date and time.",
+                "homepage": null,
                 "id": 110151230,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-03T19:50:09Z",
+                "open_issues": 1,
                 "owner": "Paul-Reed",
                 "repo": "node-red-contrib-simpletime",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "node-red",
+                  "npm-package",
+                  "timestamp"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1920,12 +2930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for Node-Red-Contrib-Bigtimer",
+                "homepage": null,
                 "id": 324403899,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-04-14T05:43:19Z",
+                "open_issues": 1,
                 "owner": "scargill",
                 "repo": "node-red-contrib-bigtimer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -1943,12 +2958,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1959,12 +2982,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extra nodes for Node-RED",
+                "homepage": null,
                 "id": 13133024,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T19:05:23Z",
+                "open_issues": 162,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1082
+                "stars": 1082,
+                "topics": [
+                  "hacktoberfest",
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1975,12 +3006,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of nodes for the IBM Watson services",
+                "homepage": null,
                 "id": 55415107,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-28T08:38:35Z",
+                "open_issues": 38,
                 "owner": "watson-developer-cloud",
                 "repo": "node-red-node-watson",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "node-red",
+                  "watson"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1991,12 +3030,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED module to get events from a iCal Calender (Google e.g.), icloud or Caldav Server via kalender-events",
+                "homepage": null,
                 "id": 201247948,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-19T19:20:18Z",
+                "open_issues": 32,
                 "owner": "naimo84",
                 "repo": "node-red-contrib-ical-events",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "awesome",
+                  "caldav",
+                  "calendar",
+                  "ical",
+                  "ical-events",
+                  "icloud",
+                  "icloud-calendars",
+                  "javascript",
+                  "kalender-events",
+                  "node-red",
+                  "nodered",
+                  "nodered-nodes"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2007,12 +3064,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides a set of nodes to enable an extendable design pattern for flows.",
+                "homepage": null,
                 "id": 113907797,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-07T07:43:09Z",
+                "open_issues": 6,
                 "owner": "Steveorevo",
                 "repo": "node-red-contrib-actionflows",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "benchmark",
+                  "extensible-flows",
+                  "flow",
+                  "loop",
+                  "node-red",
+                  "oop",
+                  "scope",
+                  "subflow"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2023,12 +3094,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A collection of nodes for improve Node-RED dependability by enabling self-healing capabilities.",
+                "homepage": "http://jpdias.me/node-red-contrib-self-healing/",
                 "id": 217857968,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-08-06T09:32:44Z",
+                "open_issues": 0,
                 "owner": "jpdias",
                 "repo": "node-red-contrib-self-healing",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "autonomic-computing",
+                  "hacktoberfest",
+                  "internet-of-things",
+                  "node-red",
+                  "node-red-contrib",
+                  "self-healing"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2039,12 +3122,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-Red Node that produces formatted Date/Time output using the Moment.JS library. Timezone, dst and locale aware.",
+                "homepage": null,
                 "id": 29934419,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-16T17:47:05Z",
+                "open_issues": 4,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-moment",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "html",
+                  "javascript",
+                  "locale-awareness",
+                  "moment",
+                  "node-red",
+                  "nodejs",
+                  "timezone"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2055,12 +3151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nodes to build your own home alarm system. Designed to work easily with (but does not require) homekit.",
+                "homepage": null,
                 "id": 156128004,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-04-02T13:34:26Z",
+                "open_issues": 17,
                 "owner": "Anamico",
                 "repo": "node-red-contrib-alarm",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2071,12 +3172,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides a string manipulation node with a chainable UI based on the concise and lightweight stringjs.com.",
+                "homepage": null,
                 "id": 105502706,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-02-10T00:41:20Z",
+                "open_issues": 4,
                 "owner": "Steveorevo",
                 "repo": "node-red-contrib-string",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "parse",
+                  "string",
+                  "string-manipulation",
+                  "string-matching"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2087,12 +3198,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node Red node that wraps around Javascript State Machine",
+                "homepage": null,
                 "id": 116439987,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-06T11:19:24Z",
+                "open_issues": 5,
                 "owner": "DeanCording",
                 "repo": "node-red-contrib-state-machine",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2103,12 +3221,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node Red node to persist data over Node Red restarts.",
+                "homepage": null,
                 "id": 99645515,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-08-31T19:43:54Z",
+                "open_issues": 12,
                 "owner": "DeanCording",
                 "repo": "node-red-contrib-persist",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "node-red"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2119,12 +3244,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node used to quickly build a simple user system to control access to your http nodes on Node-RED.",
+                "homepage": null,
                 "id": 128275098,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2021-05-18T03:42:12Z",
+                "open_issues": 7,
                 "owner": "SenseTecnic",
                 "repo": "node-red-contrib-users",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "jwt",
+                  "node-js",
+                  "node-red",
+                  "users-management"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2135,12 +3270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 154211290,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-18T21:20:08Z",
+                "open_issues": 6,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-german-holidays",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2151,12 +3291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node-RED nodes for The Weather Company and Weather Underground Personal Weather Station APIs",
+                "homepage": null,
                 "id": 235249677,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T23:08:45Z",
+                "open_issues": 3,
                 "owner": "johnwalicki",
                 "repo": "node-red-contrib-twc-weather",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2167,12 +3312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node to decrypt encrypted Owntracks location messages. ",
+                "homepage": "https://www.hardill.me.uk/wordpress/2016/04/26/owntracks-encrypted-location-node-red-node/",
                 "id": 57075218,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2016-07-16T17:38:25Z",
+                "open_issues": 0,
                 "owner": "hardillb",
                 "repo": "node-red-contrib-owntracks",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2183,12 +3333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node Red node to measure the interval length between successive messages",
+                "homepage": null,
                 "id": 102393923,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-09T06:05:09Z",
+                "open_issues": 7,
                 "owner": "bartbutenaers",
                 "repo": "node-red-contrib-interval-length",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -2206,12 +3361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dashboard UI for Node-RED",
+                "homepage": null,
                 "id": 58145930,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-07T18:03:52Z",
+                "open_issues": 93,
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
-                "stars": 1407
+                "stars": 1407,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2222,12 +3382,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily create data-driven web UI's for Node-RED. Single- & Multi-page. Multiple UI's. Work with existing web development workflows or mix and match with no-code/low-code features.",
+                "homepage": "https://totallyinformation.github.io/node-red-contrib-uibuilder/#/",
                 "id": 88643649,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T01:02:52Z",
+                "open_issues": 7,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
-                "stars": 526
+                "stars": 526,
+                "topics": [
+                  "css",
+                  "dashboard",
+                  "data-driven",
+                  "flow-based-programming",
+                  "html",
+                  "javascript",
+                  "low-code",
+                  "no-code",
+                  "node-red",
+                  "ui",
+                  "web-app",
+                  "web-application",
+                  "web-components",
+                  "webapp",
+                  "website",
+                  "websockets",
+                  "zero-code"
+                ]
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2238,12 +3421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web map app for Node-RED to put blobs on",
+                "homepage": null,
                 "id": 55224434,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-11T09:13:32Z",
+                "open_issues": 9,
                 "owner": "dceejay",
                 "repo": "RedMap",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -2254,12 +3442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser utilities for node-red",
+                "homepage": null,
                 "id": 69582024,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-23T09:37:23Z",
+                "open_issues": 2,
                 "owner": "ibm-early-programs",
                 "repo": "node-red-contrib-browser-utils",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             }
@@ -2273,15 +3466,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:22.229Z",
+    "last_updated": "2026-08-29T04:40:13.258Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of interesting nodes and resources for Node-RED",
+      "homepage": null,
       "id": 422856484,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-02-23T06:12:18Z",
+      "open_issues": 1,
       "owner": "naimo84",
       "repo": "awesome-nodered",
-      "stars": 548
+      "stars": 548,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "community",
+        "hacktoberfest",
+        "node-red",
+        "node-red-contrib",
+        "nodered"
+      ]
     },
     "original_repository_sha": "b3cc9962da3b212e0a4daa39b4f48ad0b4b4f2f4",
     "enhanced_repository": "enhansome/enhansome-nodered",

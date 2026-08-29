@@ -128,7 +128,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 597 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-19 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 27 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
-* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 203 | 🐛 0 | 🌐 HTML | 📅 2026-08-27 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
+* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 203 | 🐛 0 | 🌐 HTML | 📅 2026-08-29 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-05-12 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⭐ 106 | 🐛 44 | 🌐 HTML | 📅 2026-07-08 - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
