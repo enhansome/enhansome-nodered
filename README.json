@@ -16,7 +16,8 @@
             "owner": "node-red",
             "repo": "node-red-docker",
             "stars": 539
-          }
+          },
+          "first_seen": "2026-08-29T01:54:22.229Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "rdmtc",
             "repo": "RedMatic",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-29T01:54:22.229Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ct-Open-Source",
             "repo": "ct-Smart-Home",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-29T01:54:22.229Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T01:54:22.229Z"
         }
       ],
       "title": "Installation"
@@ -84,7 +88,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -121,7 +127,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "mblackstock",
                 "repo": "node-red-contrib-influxdb",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "bestlong",
                 "repo": "node-red-contrib-mssql-plus",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "stackhero-io",
                 "repo": "node-red-contrib-stackhero-influxdb-v2",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "stackhero-io",
                 "repo": "node-red-contrib-stackhero-mysql",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -233,7 +246,8 @@
                 "owner": "alexk111",
                 "repo": "node-red-node-typescript-starter",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -255,7 +269,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -337,7 +356,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -487,7 +516,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -517,7 +548,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -532,7 +564,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -547,7 +580,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -592,7 +628,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -607,7 +644,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -629,7 +667,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -644,7 +683,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -659,7 +699,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -674,7 +715,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -689,7 +731,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -704,7 +747,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -719,7 +763,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "BiancoRoyal",
                 "repo": "node-red-contrib-modbus",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "st-one-io",
                 "repo": "node-red-contrib-s7",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "mindsphere",
                 "repo": "node-red-contrib-mindconnect",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -794,7 +843,8 @@
                 "owner": "eschava",
                 "repo": "node-red-contrib-xiaomi-ble",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -809,7 +859,8 @@
                 "owner": "clausbroch",
                 "repo": "node-red-contrib-noble-bluetooth",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -831,7 +882,8 @@
                 "owner": "rikukissa",
                 "repo": "node-red-contrib-image-output",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -853,7 +905,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -868,7 +921,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -883,7 +937,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -898,7 +953,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -920,7 +976,8 @@
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
                 "stars": 597
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -935,7 +992,8 @@
                 "owner": "NRCHKB",
                 "repo": "node-red-contrib-homekit-bridged",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -949,8 +1007,9 @@
                 "last_commit": "2026-08-27T10:45:21Z",
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
-                "stars": 202
-              }
+                "stars": 203
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -961,11 +1020,12 @@
                 "archived": false,
                 "id": 198852178,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T13:52:20Z",
+                "last_commit": "2026-08-28T18:06:27Z",
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -979,8 +1039,9 @@
                 "last_commit": "2026-05-12T07:44:11Z",
                 "owner": "andrei-tatar",
                 "repo": "node-red-contrib-smartnora",
-                "stars": 114
-              }
+                "stars": 113
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1056,8 @@
                 "owner": "bbindreiter",
                 "repo": "node-red-contrib-alexa-remote2-applestrudel",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1072,8 @@
                 "owner": "andreypopov",
                 "repo": "node-red-contrib-zigbee2mqtt",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1088,8 @@
                 "owner": "NorthernMan54",
                 "repo": "node-red-contrib-homebridge-automation",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1104,8 @@
                 "owner": "deconz-community",
                 "repo": "node-red-contrib-deconz",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1120,8 @@
                 "owner": "hobbyquaker",
                 "repo": "node-red-contrib-zigbee",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1070,7 +1136,8 @@
                 "owner": "hklages",
                 "repo": "node-red-contrib-sonos-plus",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1152,8 @@
                 "owner": "codmpm",
                 "repo": "node-red-contrib-loxone",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1100,7 +1168,8 @@
                 "owner": "AYapejian",
                 "repo": "node-red-contrib-home-assistant",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1115,7 +1184,8 @@
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1130,7 +1200,8 @@
                 "owner": "hobbyquaker",
                 "repo": "node-red-contrib-lgtv",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1145,7 +1216,8 @@
                 "owner": "bashGroup",
                 "repo": "node-red-contrib-fritz",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1160,7 +1232,8 @@
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1175,7 +1248,8 @@
                 "owner": "hgross",
                 "repo": "node-red-contrib-tuya-smart",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1190,7 +1264,8 @@
                 "owner": "stfnhmplr",
                 "repo": "node-red-contrib-homee",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1205,7 +1280,8 @@
                 "owner": "mabunixda",
                 "repo": "node-red-contrib-alexa-home",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1220,7 +1296,8 @@
                 "owner": "mattdavis90",
                 "repo": "node-red-contrib-tado-client",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1235,7 +1312,8 @@
                 "owner": "DaveMDS",
                 "repo": "node-red-contrib-tasmota",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1250,7 +1328,8 @@
                 "owner": "krauskopf",
                 "repo": "node-red-contrib-avr-yamaha",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1265,7 +1344,8 @@
                 "owner": "dnknth",
                 "repo": "node-red-contrib-fritzapi",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1280,7 +1360,8 @@
                 "owner": "nikkow",
                 "repo": "node-red-contrib-tahoma",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1300,7 +1381,8 @@
                     "owner": "coldfire84",
                     "repo": "node-red-alexa-home-skill-v3-web",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:22.229Z"
                 },
                 {
                   "node_type": "item",
@@ -1315,7 +1397,8 @@
                     "owner": "coldfire84",
                     "repo": "node-red-alexa-home-skill-v3-lambda",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:54:22.229Z"
                 }
               ],
               "repo_info": {
@@ -1326,7 +1409,8 @@
                 "owner": "coldfire84",
                 "repo": "node-red-contrib-alexa-home-skill-v3",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1341,7 +1425,8 @@
                 "owner": "fblackburn1",
                 "repo": "node-red-contrib-hubitat",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1356,7 +1441,8 @@
                 "owner": "Aietes",
                 "repo": "node-red-contrib-harmony",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1371,7 +1457,8 @@
                 "owner": "jeroenhe",
                 "repo": "node-red-contrib-openhab3",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -1393,7 +1480,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1408,7 +1496,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1423,7 +1512,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1528,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1453,7 +1544,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1468,7 +1560,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1483,7 +1576,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1498,7 +1592,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1513,7 +1608,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1528,7 +1624,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1543,7 +1640,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1558,7 +1656,8 @@
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
                 "stars": 982
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1573,7 +1672,8 @@
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1588,7 +1688,8 @@
                 "owner": "Markoudstaal",
                 "repo": "node-red-contrib-discord-advanced",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1603,7 +1704,8 @@
                 "owner": "travisghansen",
                 "repo": "node-red-slack",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1618,7 +1720,8 @@
                 "owner": "open-wa",
                 "repo": "node-red-contrib-wa-automate",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1633,7 +1736,8 @@
                 "owner": "inUtil-info",
                 "repo": "node-red-contrib-whin",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1648,7 +1752,8 @@
                 "owner": "seven-io",
                 "repo": "node-red",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1663,7 +1768,8 @@
                 "owner": "pantchox",
                 "repo": "node-red-contrib-pushstaq",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -1685,7 +1791,8 @@
                 "owner": "martin-doyle",
                 "repo": "node-red-contrib-aedes",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1700,7 +1807,8 @@
                 "owner": "naimo84",
                 "repo": "node-red-contrib-dockerode",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1715,7 +1823,8 @@
                 "owner": "Argonne-National-Laboratory",
                 "repo": "node-red-contrib-os",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -1737,7 +1846,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1752,7 +1862,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1767,7 +1878,8 @@
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-sun-position",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1782,7 +1894,8 @@
                 "owner": "alisdairjsmyth",
                 "repo": "node-red-contrib-blindcontroller",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1797,7 +1910,8 @@
                 "owner": "Paul-Reed",
                 "repo": "node-red-contrib-simpletime",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1812,7 +1926,8 @@
                 "owner": "scargill",
                 "repo": "node-red-contrib-bigtimer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -1834,7 +1949,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1849,7 +1965,8 @@
                 "owner": "node-red",
                 "repo": "node-red-nodes",
                 "stars": 1082
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1864,7 +1981,8 @@
                 "owner": "watson-developer-cloud",
                 "repo": "node-red-node-watson",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1879,7 +1997,8 @@
                 "owner": "naimo84",
                 "repo": "node-red-contrib-ical-events",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1894,7 +2013,8 @@
                 "owner": "Steveorevo",
                 "repo": "node-red-contrib-actionflows",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1909,7 +2029,8 @@
                 "owner": "jpdias",
                 "repo": "node-red-contrib-self-healing",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1924,7 +2045,8 @@
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-moment",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1939,7 +2061,8 @@
                 "owner": "Anamico",
                 "repo": "node-red-contrib-alarm",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1954,7 +2077,8 @@
                 "owner": "Steveorevo",
                 "repo": "node-red-contrib-string",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1969,7 +2093,8 @@
                 "owner": "DeanCording",
                 "repo": "node-red-contrib-state-machine",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1984,7 +2109,8 @@
                 "owner": "DeanCording",
                 "repo": "node-red-contrib-persist",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -1999,7 +2125,8 @@
                 "owner": "SenseTecnic",
                 "repo": "node-red-contrib-users",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2014,7 +2141,8 @@
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-german-holidays",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2029,7 +2157,8 @@
                 "owner": "johnwalicki",
                 "repo": "node-red-contrib-twc-weather",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2044,7 +2173,8 @@
                 "owner": "hardillb",
                 "repo": "node-red-contrib-owntracks",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2059,7 +2189,8 @@
                 "owner": "bartbutenaers",
                 "repo": "node-red-contrib-interval-length",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -2081,7 +2212,8 @@
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
                 "stars": 1407
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2228,8 @@
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2244,8 @@
                 "owner": "dceejay",
                 "repo": "RedMap",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2260,8 @@
                 "owner": "ibm-early-programs",
                 "repo": "node-red-contrib-browser-utils",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
             }
           ],
           "description": null,
@@ -2138,7 +2273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:18:22.771Z",
+    "last_updated": "2026-08-29T01:54:22.229Z",
     "original_repository_info": {
       "archived": false,
       "id": 422856484,
