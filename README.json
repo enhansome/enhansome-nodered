@@ -1523,7 +1523,7 @@
                 "id": 103281705,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:15:01Z",
+                "last_commit": "2026-08-30T09:00:02Z",
                 "open_issues": 0,
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
@@ -1548,7 +1548,7 @@
                 "id": 198852178,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T13:13:59Z",
+                "last_commit": "2026-08-30T14:35:45Z",
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:09:31.567Z",
+    "last_updated": "2026-08-30T21:29:20.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
