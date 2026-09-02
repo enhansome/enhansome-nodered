@@ -30,7 +30,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ## Installation
 
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 540 | 🐛 23 | 🌐 Shell | 📅 2026-09-01
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 532 | 🐛 178 | 🌐 HTML | 📅 2026-07-18 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 532 | 🐛 165 | 🌐 Shell | 📅 2026-09-02 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
 * [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-01 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
@@ -48,18 +48,18 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Analysis
 
-* [badwords](https://github.com/node-red/node-red-nodes/tree/master/analysis/swearfilter) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Analyses the payload and tries to filter out any messages containing bad swear words. This only operates on payloads of type string. Everything else is blocked.
-* [wordpos](https://github.com/node-red/node-red-nodes/tree/master/analysis/wordpos) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Analyses the payload and classifies the part-of-speech of each word. The resulting message has msg.pos added with the results. A word may appear in multiple categories (eg, 'great' is both a noun and an adjective).
+* [badwords](https://github.com/node-red/node-red-nodes/tree/master/analysis/swearfilter) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Analyses the payload and tries to filter out any messages containing bad swear words. This only operates on payloads of type string. Everything else is blocked.
+* [wordpos](https://github.com/node-red/node-red-nodes/tree/master/analysis/wordpos) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Analyses the payload and classifies the part-of-speech of each word. The resulting message has msg.pos added with the results. A word may appear in multiple categories (eg, 'great' is both a noun and an adjective).
 
 ### Database
 
-* [leveldb](https://github.com/node-red/node-red-nodes/tree/master/storage/leveldb) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses LevelDB for a simple key value pair database.
-* [mysql](https://github.com/node-red/node-red-nodes/tree/master/storage/mysql) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Allows basic access to a MySQL database.
-* [sqlite](https://github.com/node-red/node-red-nodes/tree/master/storage/sqlite) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Supports read and write to a local sqlite database.
+* [leveldb](https://github.com/node-red/node-red-nodes/tree/master/storage/leveldb) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses LevelDB for a simple key value pair database.
+* [mysql](https://github.com/node-red/node-red-nodes/tree/master/storage/mysql) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Allows basic access to a MySQL database.
+* [sqlite](https://github.com/node-red/node-red-nodes/tree/master/storage/sqlite) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Supports read and write to a local sqlite database.
 * [influxdb](https://github.com/mblackstock/node-red-contrib-influxdb) ⭐ 66 | 🐛 37 | 🌐 HTML | 📅 2026-04-02 - Save and query data from an InfluxDB time series database.
 * [mssql-plus](https://github.com/bestlong/node-red-contrib-mssql-plus) ⭐ 32 | 🐛 21 | 🌐 HTML | 📅 2026-05-13 - Execute queries, stored procedures and bulk inserts in Microsoft SQL Server and Azure Databases SQL2000 \~ SQL2019.
 * [stackhero-influxdb-v2](https://github.com/stackhero-io/node-red-contrib-stackhero-influxdb-v2) ⭐ 31 | 🐛 16 | 🌐 HTML | 📅 2023-03-02 - Save and query data from an InfluxDB v2 time series database.
-* [stackhero-mysql](https://github.com/stackhero-io/node-red-contrib-stackhero-mysql) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2025-10-06 - Connect to a MySQL or a MariaDB database, using TLS (SSL) and compatible with "Caching SHA2 password" authentication method (MySQL >= 8).
+* [stackhero-mysql](https://github.com/stackhero-io/node-red-contrib-stackhero-mysql) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2026-09-02 - Connect to a MySQL or a MariaDB database, using TLS (SSL) and compatible with "Caching SHA2 password" authentication method (MySQL >= 8).
 
 ### Development
 
@@ -67,45 +67,45 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Function
 
-* [datagenerater](https://github.com/node-red/node-red-nodes/tree/master/function/datagenerator) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Generate dummy data in various formats, names, addresses, emails, numbers, words, etc.
-* [pidcontrol](https://github.com/node-red/node-red-nodes/tree/master/function/PID) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - A PID control node for numeric inputs - provides simple controll loop feedback capability.
-* [random](https://github.com/node-red/node-red-nodes/tree/master/function/random) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Random number generator - can generate integers for x to y - or floats between x and y.
-* [rbe](https://github.com/node-red/node-red-nodes/tree/master/function/rbe) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Provide report by exception and deadband / bandgap capability for simple inputs.
-* [smooth](https://github.com/node-red/node-red-nodes/tree/master/function/smooth) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Provide various functions across several previous values, including max, min, mean, high and low pass filters.
+* [datagenerater](https://github.com/node-red/node-red-nodes/tree/master/function/datagenerator) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Generate dummy data in various formats, names, addresses, emails, numbers, words, etc.
+* [pidcontrol](https://github.com/node-red/node-red-nodes/tree/master/function/PID) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - A PID control node for numeric inputs - provides simple controll loop feedback capability.
+* [random](https://github.com/node-red/node-red-nodes/tree/master/function/random) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Random number generator - can generate integers for x to y - or floats between x and y.
+* [rbe](https://github.com/node-red/node-red-nodes/tree/master/function/rbe) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Provide report by exception and deadband / bandgap capability for simple inputs.
+* [smooth](https://github.com/node-red/node-red-nodes/tree/master/function/smooth) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Provide various functions across several previous values, including max, min, mean, high and low pass filters.
 
 ### Hardware
 
-* [arduino](https://github.com/node-red/node-red-nodes/tree/master/hardware/Arduino) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses firmata protocol to talk to the board.
-* [beaglebone](https://github.com/node-red/node-red-nodes/tree/master/hardware/BBB) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Nodes for the [Beaglebone Black](https://beagleboard.org/black).
-* [blink1](https://github.com/node-red/node-red-nodes/tree/master/hardware/blink1) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [Blink1](https://blink1.thingm.com/) USB LED from ThingM.
-* [blinkstick](https://github.com/node-red/node-red-nodes/tree/master/hardware/blinkstick) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [BlinkStick](https://www.blinkstick.com/) USB LED device.
-* [digirgb](https://github.com/node-red/node-red-nodes/tree/master/hardware/digiRGB) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - DigiSpark RGB USB LED.
-* [heatmiser](https://github.com/node-red/node-red-nodes/tree/master/hardware/heatmiser) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Temperature and frost protection for Heatmiser thermostats.
-* [intel-galileo](https://github.com/node-red/node-red-nodes/tree/master/hardware/intel) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - A collection for the Intel Galileo and Edison.
-* [ledborg](https://github.com/node-red/node-red-nodes/tree/master/hardware/LEDborg) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [LEDborg](https://www.piborg.org/ledborg) plug on module.
-* [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Read from a [MakeyMakey](http://www.makeymakey.com/) input device.
-* [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - An alternative to the default PI GPIO nodes that allows remote access.
-* [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Read from MCP300x series Analogue to Digital Converter chips via the SPI bus.
-* [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Drive a strip of NeoPixels directly.
-* [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Controls a Pimorini Unicorn HAT 8x8 LED display.
-* [pibrella](https://github.com/node-red/node-red-nodes/tree/master/hardware/Pibrella) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Controls a [Pibrella](https://pibrella.com/) add-on board.
-* [piface](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiFace) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [PiFace](https://www.piface.org.uk/) interface module.
-* [piliter](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiLiter) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Controls a Pimorini Pi-LITEr 8 LED add-on board.
-* [sensortag](https://github.com/node-red/node-red-nodes/tree/master/hardware/sensorTag) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Reads data from the Ti Bluetooth Low Energy SensorTag device.
-* [wemo](https://github.com/node-red/node-red-nodes/tree/master/hardware/wemo) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Drive a [WeMo](https://www.belkin.com/us/Products/home-automation/c/wemo-home-automation/) socket and switch.
-* [scanBLE](https://github.com/node-red/node-red-nodes/tree/master/hardware/scanBLE) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Scans for a particular Bluetooth Low Energy device.
+* [arduino](https://github.com/node-red/node-red-nodes/tree/master/hardware/Arduino) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses firmata protocol to talk to the board.
+* [beaglebone](https://github.com/node-red/node-red-nodes/tree/master/hardware/BBB) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Nodes for the [Beaglebone Black](https://beagleboard.org/black).
+* [blink1](https://github.com/node-red/node-red-nodes/tree/master/hardware/blink1) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [Blink1](https://blink1.thingm.com/) USB LED from ThingM.
+* [blinkstick](https://github.com/node-red/node-red-nodes/tree/master/hardware/blinkstick) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [BlinkStick](https://www.blinkstick.com/) USB LED device.
+* [digirgb](https://github.com/node-red/node-red-nodes/tree/master/hardware/digiRGB) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - DigiSpark RGB USB LED.
+* [heatmiser](https://github.com/node-red/node-red-nodes/tree/master/hardware/heatmiser) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Temperature and frost protection for Heatmiser thermostats.
+* [intel-galileo](https://github.com/node-red/node-red-nodes/tree/master/hardware/intel) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - A collection for the Intel Galileo and Edison.
+* [ledborg](https://github.com/node-red/node-red-nodes/tree/master/hardware/LEDborg) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [LEDborg](https://www.piborg.org/ledborg) plug on module.
+* [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Read from a [MakeyMakey](http://www.makeymakey.com/) input device.
+* [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - An alternative to the default PI GPIO nodes that allows remote access.
+* [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Read from MCP300x series Analogue to Digital Converter chips via the SPI bus.
+* [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Drive a strip of NeoPixels directly.
+* [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Controls a Pimorini Unicorn HAT 8x8 LED display.
+* [pibrella](https://github.com/node-red/node-red-nodes/tree/master/hardware/Pibrella) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Controls a [Pibrella](https://pibrella.com/) add-on board.
+* [piface](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiFace) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - [PiFace](https://www.piface.org.uk/) interface module.
+* [piliter](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiLiter) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Controls a Pimorini Pi-LITEr 8 LED add-on board.
+* [sensortag](https://github.com/node-red/node-red-nodes/tree/master/hardware/sensorTag) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Reads data from the Ti Bluetooth Low Energy SensorTag device.
+* [wemo](https://github.com/node-red/node-red-nodes/tree/master/hardware/wemo) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Drive a [WeMo](https://www.belkin.com/us/Products/home-automation/c/wemo-home-automation/) socket and switch.
+* [scanBLE](https://github.com/node-red/node-red-nodes/tree/master/hardware/scanBLE) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Scans for a particular Bluetooth Low Energy device.
 
 ### I/O
 
-* [discovery](https://github.com/node-red/node-red-nodes/tree/master/io/mdns) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Discovers other Avahi/Bonjour services on the network.
-* [emoncms](https://github.com/node-red/node-red-nodes/tree/master/io/emoncms) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Post to an [Emoncms](https://emoncms.org/) server.
-* [mqlight](https://github.com/node-red/node-red-nodes/tree/master/io/mqlight) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Adds nodes to send and receive using MQlight.
-* [ping](https://github.com/node-red/node-red-nodes/tree/master/io/ping) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Pings a machine and returns the trip time in mS.
-* [serialport](https://github.com/node-red/node-red-nodes/tree/master/io/serialport) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Send messages to and receive messages from a physical serial port.
-* [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - SNMP receivers for single OIDs or OID tables.
-* [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
-* [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends a Wake-On-LAN magic packet to the mac address specified.
-* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 346 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-14 - All in one Modbus TCP and Serial package.
+* [discovery](https://github.com/node-red/node-red-nodes/tree/master/io/mdns) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Discovers other Avahi/Bonjour services on the network.
+* [emoncms](https://github.com/node-red/node-red-nodes/tree/master/io/emoncms) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Post to an [Emoncms](https://emoncms.org/) server.
+* [mqlight](https://github.com/node-red/node-red-nodes/tree/master/io/mqlight) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Adds nodes to send and receive using MQlight.
+* [ping](https://github.com/node-red/node-red-nodes/tree/master/io/ping) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Pings a machine and returns the trip time in mS.
+* [serialport](https://github.com/node-red/node-red-nodes/tree/master/io/serialport) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Send messages to and receive messages from a physical serial port.
+* [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - SNMP receivers for single OIDs or OID tables.
+* [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
+* [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends a Wake-On-LAN magic packet to the mac address specified.
+* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 347 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - All in one Modbus TCP and Serial package.
 * [s7](https://github.com/st-one-io/node-red-contrib-s7) ⭐ 133 | 🐛 45 | 🌐 HTML | 📅 2026-01-15 - Interact with Siemens S7 PLCs.
 * [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) ⭐ 50 | 🐛 20 | 🌐 TypeScript | 📅 2024-09-06 - Upload timeseries, files and events to MindSphere.
 * [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) ⭐ 19 | 🐛 13 | 🌐 JavaScript | 📅 2021-01-19 - Single "Xiaomi BLE" node that gets all known data from Xiaomi BLE (Bluetooth 4).
@@ -118,18 +118,18 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Parsers
 
-* [base64](https://github.com/node-red/node-red-nodes/tree/master/parsers/base64) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Converts a payload to/from base64 encoded format.
-* [geohash](https://github.com/node-red/node-red-nodes/tree/master/parsers/geohash) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Converts a lat, lon payload to/from geohash format.
-* [msgpack](https://github.com/node-red/node-red-nodes/tree/master/parsers/msgpack) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Converts a payload to/from msgpack binary packed format.
-* [what3words](https://github.com/node-red/node-red-nodes/tree/master/parsers/what3words) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Encodes or Decodes a lat, lon position into what3words text format.
+* [base64](https://github.com/node-red/node-red-nodes/tree/master/parsers/base64) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Converts a payload to/from base64 encoded format.
+* [geohash](https://github.com/node-red/node-red-nodes/tree/master/parsers/geohash) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Converts a lat, lon payload to/from geohash format.
+* [msgpack](https://github.com/node-red/node-red-nodes/tree/master/parsers/msgpack) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Converts a payload to/from msgpack binary packed format.
+* [what3words](https://github.com/node-red/node-red-nodes/tree/master/parsers/what3words) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Encodes or Decodes a lat, lon position into what3words text format.
 * [buffer-parser](https://flows.nodered.org/node/node-red-contrib-buffer-parser) - Converts values to and from buffer/array. Supports Big/Little Endian, BCD, byte swapping and much more.
 
 ### Smarthome
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 597 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-19 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 27 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
-* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 203 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
-* [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
+* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 204 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
+* [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-05-12 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⭐ 106 | 🐛 44 | 🌐 HTML | 📅 2026-07-08 - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 * [zigbee2mqtt](https://github.com/andreypopov/node-red-contrib-zigbee2mqtt) ⭐ 101 | 🐛 44 | 🌐 JavaScript | 📅 2026-03-26 - Zigbee2mqtt connectivity.
@@ -138,8 +138,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee) ⚠️ Archived - Controls Zigbee Devices via a CC253x Module.
 * [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) ⭐ 81 | 🐛 7 | 🌐 JavaScript | 📅 2026-06-11 - Controls Sonos player in your local network.
 * [loxone](https://github.com/codmpm/node-red-contrib-loxone) ⭐ 78 | 🐛 22 | 🌐 HTML | 📅 2024-04-19 - Connect to the Loxone Miniserver.
-* [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) ⭐ 77 | 🐛 35 | 🌐 HTML | 📅 2018-09-30 - Connect with Home Assistant.
-* [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 62 | 🌐 JavaScript | 📅 2026-07-18 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) ⭐ 77 | 🐛 36 | 🌐 HTML | 📅 2018-09-30 - Connect with Home Assistant.
+* [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-02 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 60 | 🐛 48 | 🌐 JavaScript | 📅 2023-10-11 - Controls LG webOS Smart TVs.
 * [fritz](https://github.com/bashgroup/node-red-contrib-fritz) ⭐ 52 | 🐛 15 | 🌐 HTML | 📅 2024-01-26 - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
 * [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-09 - Integrates Z-Wave node based on Z-Wave JS.
@@ -161,18 +161,18 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Social
 
-* [dweetio](https://github.com/node-red/node-red-nodes/tree/master/social/dweetio) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [dweetio](https://dweet.io/) to send/receive messages.
-* [email](https://github.com/node-red/node-red-nodes/tree/master/social/email) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends and receives simple emails from services like gmail or smtp or imap servers.
-* [feedparser](https://github.com/node-red/node-red-nodes/tree/master/social/feedparser) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Reads messages from an atom or rss feed.
-* [irc](https://github.com/node-red/node-red-nodes/tree/master/social/irc) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Connect to an IRC server to send and receive messages.
-* [notify](https://github.com/node-red/node-red-nodes/tree/master/social/notify) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Growl](https://growl.info/) to provide a desktop popup. Only useful on the local Apple machine.
-* [prowl](https://github.com/node-red/node-red-nodes/tree/master/social/prowl) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Prowl](https://www.prowlapp.com/) to push to an Apple device that has the Prowl app installed.
-* [pushbullet](https://github.com/node-red/node-red-nodes/tree/master/social/pushbullet) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [PushBullet](https://www.pushbullet.com/) to push an Android device that has the app installed.
-* [pusher](https://github.com/node-red/node-red-nodes/tree/master/social/pusher) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Publish-Subscribe to a [Pusher](https://pusher.com/) channel/event.
-* [pushover](https://github.com/node-red/node-red-nodes/tree/master/social/pushover) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends alerts via [Pushover](https://pushover.net/).
-* [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
-* [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Connect to an XMPP server to send and receive messages.
-* [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 982 | 🐛 32 | 🌐 HTML | 📅 2026-06-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
+* [dweetio](https://github.com/node-red/node-red-nodes/tree/master/social/dweetio) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [dweetio](https://dweet.io/) to send/receive messages.
+* [email](https://github.com/node-red/node-red-nodes/tree/master/social/email) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends and receives simple emails from services like gmail or smtp or imap servers.
+* [feedparser](https://github.com/node-red/node-red-nodes/tree/master/social/feedparser) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Reads messages from an atom or rss feed.
+* [irc](https://github.com/node-red/node-red-nodes/tree/master/social/irc) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Connect to an IRC server to send and receive messages.
+* [notify](https://github.com/node-red/node-red-nodes/tree/master/social/notify) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Growl](https://growl.info/) to provide a desktop popup. Only useful on the local Apple machine.
+* [prowl](https://github.com/node-red/node-red-nodes/tree/master/social/prowl) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Prowl](https://www.prowlapp.com/) to push to an Apple device that has the Prowl app installed.
+* [pushbullet](https://github.com/node-red/node-red-nodes/tree/master/social/pushbullet) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [PushBullet](https://www.pushbullet.com/) to push an Android device that has the app installed.
+* [pusher](https://github.com/node-red/node-red-nodes/tree/master/social/pusher) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Publish-Subscribe to a [Pusher](https://pusher.com/) channel/event.
+* [pushover](https://github.com/node-red/node-red-nodes/tree/master/social/pushover) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Sends alerts via [Pushover](https://pushover.net/).
+* [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
+* [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Connect to an XMPP server to send and receive messages.
+* [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 982 | 🐛 32 | 🌐 HTML | 📅 2026-09-02 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
 * [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 300 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-31 - Contains a receiver and a sender node which act as a Telegram Bot.
 * [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
@@ -189,8 +189,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Time
 
-* [suncalc](https://github.com/node-red/node-red-nodes/tree/master/time/suncalc) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses the suncalc module to generate an output at sunrise and sunset based on a specified location.
-* [timeswitch](https://github.com/node-red/node-red-nodes/tree/master/time/timeswitch) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Lets the user set simple repeating timers for example for simple heating control, etc.
+* [suncalc](https://github.com/node-red/node-red-nodes/tree/master/time/suncalc) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Uses the suncalc module to generate an output at sunrise and sunset based on a specified location.
+* [timeswitch](https://github.com/node-red/node-red-nodes/tree/master/time/timeswitch) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Lets the user set simple repeating timers for example for simple heating control, etc.
 * [sun-position](https://github.com/rdmtc/node-red-contrib-sun-position) ⭐ 111 | 🐛 94 | 🌐 JavaScript | 📅 2026-06-24 - Timer based flow control with dusk, dawn (and variations) and much more. Additional you can get sun and moon position or to control a flow by sun or moon position.
 * [blindcontroller](https://github.com/alisdairjsmyth/node-red-contrib-blindcontroller) ⭐ 24 | 🐛 15 | 🌐 HTML | 📅 2020-05-05 - Automate the control of household roller blinds based on the current position of the sun.
 * [simpletime](https://github.com/Paul-Reed/node-red-contrib-simpletime) ⭐ 4 | 🐛 1 | 🌐 HTML | 📅 2025-11-03 - Adds time and date payloads with various formatting options, which can be retreived and used later in the flow.
@@ -199,8 +199,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Utility
 
-* [daemon](https://github.com/node-red/node-red-nodes/tree/master/utility/daemon) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Starts up (calls) a long running system program and pipes STDIN, STDOUT and STDERR to and from that process.
-* [exif](https://github.com/node-red/node-red-nodes/tree/master/utility/exif) ⭐ 1,082 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Extracts GPS and other EXIF information from a passed in jpeg image.
+* [daemon](https://github.com/node-red/node-red-nodes/tree/master/utility/daemon) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Starts up (calls) a long running system program and pipes STDIN, STDOUT and STDERR to and from that process.
+* [exif](https://github.com/node-red/node-red-nodes/tree/master/utility/exif) ⭐ 1,083 | 🐛 162 | 🌐 JavaScript | 📅 2026-07-21 - Extracts GPS and other EXIF information from a passed in jpeg image.
 * [watson](https://github.com/watson-developer-cloud/node-red-node-watson) ⭐ 81 | 🐛 38 | 🌐 HTML | 📅 2022-03-28 - Interact with the IBM Watson services in IBM Cloud.
 * [ical-events](https://github.com/naimo84/node-red-contrib-ical-events) ⭐ 48 | 🐛 32 | 🌐 TypeScript | 📅 2024-11-19 - Get events from an ical-URL, a caldav-server or from iCloud via [kalender-events](https://github.com/naimo84/kalender-events) ⭐ 20 | 🐛 18 | 🌐 TypeScript | 📅 2026-02-16.
 * [actionflows](https://github.com/Steveorevo/node-red-contrib-actionflows) ⭐ 44 | 🐛 6 | 🌐 JavaScript | 📅 2022-02-07 - Brings easy to use loops and OOP (object oriented programming) features.
@@ -219,11 +219,11 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### UI
 
-* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,407 | 🐛 93 | 🌐 HTML | 📅 2025-08-07 - Create a live data dashboard.
+* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,408 | 🐛 93 | 🌐 HTML | 📅 2025-08-07 - Create a live data dashboard.
   * [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - Dashboard extra nodes.
   * [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
   * [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
-* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 526 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-11 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
+* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 526 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-01 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 * [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 119 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-11 - Provide a world map web page for plotting "things" on.
 * [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2022-09-23 - Add browser functionality such as file upload, camera & microphone.
 * [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
