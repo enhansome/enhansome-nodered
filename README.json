@@ -109,7 +109,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-13T04:57:02Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 54,
@@ -1472,7 +1472,7 @@
                 "open_issues": 60,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
-                "stars": 600,
+                "stars": 599,
                 "topics": [
                   "home",
                   "home-assistant",
@@ -1548,7 +1548,7 @@
                 "id": 198852178,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T13:57:33Z",
+                "last_commit": "2026-09-15T09:49:24Z",
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
@@ -1800,7 +1800,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-13T17:30:45Z",
-                "open_issues": 19,
+                "open_issues": 18,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
                 "stars": 69,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:00:44.044Z",
+    "last_updated": "2026-09-15T21:43:24.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
