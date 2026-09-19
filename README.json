@@ -108,11 +108,11 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T04:57:02Z",
+            "last_commit": "2026-09-19T06:33:02Z",
             "open_issues": 37,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
-            "stars": 55,
+            "stars": 53,
             "topics": [
               "iobroker",
               "node-red",
@@ -1200,7 +1200,7 @@
                 "open_issues": 8,
                 "owner": "BiancoRoyal",
                 "repo": "node-red-contrib-modbus",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -1237,13 +1237,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Node-RED Agent for the MindConnect API (community driven project)",
-                "homepage": "https://opensource.mindsphere.io/docs/node-red-contrib-mindconnect/index.html",
+                "description": "Node-RED Agent for the Siemens Insights Hub MindConnect API",
+                "homepage": "https://developer.siemens.com/industrial-iot-open-source/node-red-contrib-mindconnect/index.html",
                 "id": 155538725,
-                "language": "TypeScript",
+                "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-18T18:40:18Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-18T22:54:42Z",
+                "open_issues": 0,
                 "owner": "mindsphere",
                 "repo": "node-red-contrib-mindconnect",
                 "stars": 50,
@@ -1524,7 +1524,7 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T16:07:57Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
                 "stars": 204,
@@ -1876,7 +1876,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-07T17:45:35Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
                 "stars": 51,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:12:21.033Z",
+    "last_updated": "2026-09-19T20:57:37.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",

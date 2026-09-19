@@ -32,7 +32,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 540 | 🐛 23 | 🌐 Shell | 📅 2026-09-09
 * [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 529 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-17 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 171 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 55 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-13 - Starts an instance within ioBroker and communicates with it.
+* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-19 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
 * [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
 * [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
@@ -105,9 +105,9 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) ⭐ 1,087 | 🐛 163 | 🌐 JavaScript | 📅 2026-09-18 - SNMP receivers for single OIDs or OID tables.
 * [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) ⭐ 1,087 | 🐛 163 | 🌐 JavaScript | 📅 2026-09-18 - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
 * [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) ⭐ 1,087 | 🐛 163 | 🌐 JavaScript | 📅 2026-09-18 - Sends a Wake-On-LAN magic packet to the mac address specified.
-* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 347 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-01 - All in one Modbus TCP and Serial package.
+* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 348 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-01 - All in one Modbus TCP and Serial package.
 * [s7](https://github.com/st-one-io/node-red-contrib-s7) ⭐ 134 | 🐛 45 | 🌐 HTML | 📅 2026-01-15 - Interact with Siemens S7 PLCs.
-* [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) ⭐ 50 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-18 - Upload timeseries, files and events to MindSphere.
+* [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) ⭐ 50 | 🐛 0 | 🌐 HTML | 📅 2026-09-18 - Upload timeseries, files and events to MindSphere.
 * [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) ⭐ 19 | 🐛 13 | 🌐 JavaScript | 📅 2021-01-19 - Single "Xiaomi BLE" node that gets all known data from Xiaomi BLE (Bluetooth 4).
 * [noble-bluetooth](https://github.com/clausbroch/node-red-contrib-noble-bluetooth) ⭐ 11 | 🐛 12 | 🌐 JavaScript | 📅 2021-07-13 - Based on noble for interaction with Bluetooth Low Energy devices.
 
@@ -128,7 +128,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 599 | 🐛 60 | 🌐 TypeScript | 📅 2026-09-12 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 445 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
-* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 204 | 🐛 0 | 🌐 HTML | 📅 2026-09-06 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
+* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 204 | 🐛 1 | 🌐 HTML | 📅 2026-09-06 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 2 | 🌐 HTML | 📅 2026-05-12 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⭐ 106 | 🐛 44 | 🌐 HTML | 📅 2026-07-08 - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
@@ -142,7 +142,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-17 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 60 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 - Controls LG webOS Smart TVs.
 * [fritz](https://github.com/bashgroup/node-red-contrib-fritz) ⭐ 52 | 🐛 15 | 🌐 HTML | 📅 2024-01-26 - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
-* [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-07 - Integrates Z-Wave node based on Z-Wave JS.
+* [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-07 - Integrates Z-Wave node based on Z-Wave JS.
 * [tuya-smart](https://github.com/hgross/node-red-contrib-tuya-smart) ⭐ 45 | 🐛 6 | 🌐 TypeScript | 📅 2020-09-07 - Interface with smart plugs, bulbs, etc. from tuya.
 * [homee](https://github.com/stfnhmplr/node-red-contrib-homee) ⭐ 38 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-24 - Access the homee api and create virtual devices for homee.
 * [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) ⭐ 35 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-22 - Connect with Alexa just wihtin the local network - no extra cloud stuff is required.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
