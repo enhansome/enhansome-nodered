@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T06:33:02Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-21T17:02:24Z",
+            "open_issues": 36,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1246,7 +1246,7 @@
                 "open_issues": 0,
                 "owner": "mindsphere",
                 "repo": "node-red-contrib-mindconnect",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "industrial-iot",
                   "insights-hub",
@@ -1548,7 +1548,7 @@
                 "id": 198852178,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T17:02:06Z",
+                "last_commit": "2026-09-21T18:13:36Z",
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
@@ -2556,8 +2556,8 @@
                 "id": 49324815,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T00:42:32Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-21T19:14:15Z",
+                "open_issues": 2,
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:02:01.515Z",
+    "last_updated": "2026-09-21T22:10:13.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
