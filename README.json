@@ -40,7 +40,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T17:32:22Z",
+            "last_commit": "2026-09-23T09:25:08Z",
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T07:18:01Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-23T07:00:09Z",
+            "open_issues": 35,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1523,8 +1523,8 @@
                 "id": 103281705,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T21:26:31Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-23T07:30:20Z",
+                "open_issues": 0,
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
                 "stars": 204,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:38:04.208Z",
+    "last_updated": "2026-09-23T21:45:47.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
@@ -3478,7 +3478,7 @@
       "open_issues": 1,
       "owner": "naimo84",
       "repo": "awesome-nodered",
-      "stars": 550,
+      "stars": 549,
       "topics": [
         "awesome",
         "awesome-list",

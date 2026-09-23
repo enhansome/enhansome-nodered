@@ -30,9 +30,9 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ## Installation
 
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 540 | 🐛 23 | 🌐 Shell | 📅 2026-09-09
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 529 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-17 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 529 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-23 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 171 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-22 - Starts an instance within ioBroker and communicates with it.
+* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-23 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
 * [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
 * [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
@@ -128,7 +128,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 599 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-12 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 445 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
-* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 204 | 🐛 1 | 🌐 HTML | 📅 2026-09-19 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
+* [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 204 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-22 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 2 | 🌐 HTML | 📅 2026-05-12 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⭐ 106 | 🐛 44 | 🌐 HTML | 📅 2026-07-08 - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
