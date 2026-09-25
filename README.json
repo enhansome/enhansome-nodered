@@ -108,7 +108,7 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T07:00:09Z",
+            "last_commit": "2026-09-25T14:38:21Z",
             "open_issues": 35,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
@@ -1875,7 +1875,7 @@
                 "id": 323958782,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T14:17:53Z",
+                "last_commit": "2026-09-25T20:31:31Z",
                 "open_issues": 2,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:45:02.530Z",
+    "last_updated": "2026-09-25T21:47:54.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
