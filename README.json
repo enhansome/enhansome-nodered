@@ -40,11 +40,11 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T04:48:07Z",
+            "last_commit": "2026-09-26T19:03:03Z",
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
-            "stars": 529,
+            "stars": 531,
             "topics": [
               "addon",
               "ccu",
@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T14:38:21Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-26T01:57:39Z",
+            "open_issues": 36,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1200,7 +1200,7 @@
                 "open_issues": 8,
                 "owner": "BiancoRoyal",
                 "repo": "node-red-contrib-modbus",
-                "stars": 348,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -1658,27 +1658,6 @@
             },
             {
               "node_type": "item",
-              "title": "deconz",
-              "description": "Access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights via deCONZ.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Node-Red Nodes for deCONZ connectivity.",
-                "homepage": null,
-                "id": 191546716,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-12T22:50:21Z",
-                "open_issues": 0,
-                "owner": "deconz-community",
-                "repo": "node-red-contrib-deconz",
-                "stars": 84,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:54:22.229Z"
-            },
-            {
-              "node_type": "item",
               "title": "zigbee",
               "description": "Controls Zigbee Devices via a CC253x Module.",
               "children": [],
@@ -1706,6 +1685,27 @@
                   "zigbee-herdsman",
                   "zigbee-shepherd"
                 ]
+              },
+              "first_seen": "2026-08-29T01:54:22.229Z"
+            },
+            {
+              "node_type": "item",
+              "title": "deconz",
+              "description": "Access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights via deCONZ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Node-Red Nodes for deCONZ connectivity.",
+                "homepage": null,
+                "id": 191546716,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-12T22:50:21Z",
+                "open_issues": 0,
+                "owner": "deconz-community",
+                "repo": "node-red-contrib-deconz",
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
             },
@@ -1799,7 +1799,7 @@
                 "id": 131439304,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T17:19:10Z",
+                "last_commit": "2026-09-26T18:47:29Z",
                 "open_issues": 18,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
@@ -1875,7 +1875,7 @@
                 "id": 323958782,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T20:31:31Z",
+                "last_commit": "2026-09-26T17:57:30Z",
                 "open_issues": 2,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:47:54.916Z",
+    "last_updated": "2026-09-26T21:29:57.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
