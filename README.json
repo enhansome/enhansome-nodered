@@ -44,7 +44,7 @@
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
-            "stars": 531,
+            "stars": 530,
             "topics": [
               "addon",
               "ccu",
@@ -76,7 +76,7 @@
             "open_issues": 26,
             "owner": "ct-Open-Source",
             "repo": "ct-Smart-Home",
-            "stars": 171,
+            "stars": 170,
             "topics": [
               "bluetooth-low-energy",
               "docker",
@@ -1704,7 +1704,7 @@
                 "open_issues": 0,
                 "owner": "deconz-community",
                 "repo": "node-red-contrib-deconz",
-                "stars": 83,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -1875,8 +1875,8 @@
                 "id": 323958782,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T17:57:30Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-27T18:53:14Z",
+                "open_issues": 1,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
                 "stars": 51,
@@ -2534,7 +2534,7 @@
                 "open_issues": 32,
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
-                "stars": 982,
+                "stars": 981,
                 "topics": [
                   "chatbot",
                   "messenger",
@@ -2556,8 +2556,8 @@
                 "id": 49324815,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T19:14:15Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-27T00:42:51Z",
+                "open_issues": 5,
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:29:57.701Z",
+    "last_updated": "2026-09-27T21:34:20.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
