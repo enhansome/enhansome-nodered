@@ -44,7 +44,7 @@
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "addon",
               "ccu",
@@ -1468,8 +1468,8 @@
                 "id": 149000442,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T12:02:33Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-02T05:25:17Z",
+                "open_issues": 48,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
                 "stars": 599,
@@ -1799,7 +1799,7 @@
                 "id": 131439304,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T15:03:40Z",
+                "last_commit": "2026-10-02T20:18:33Z",
                 "open_issues": 15,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
@@ -3387,8 +3387,8 @@
                 "id": 88643649,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T02:14:45Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-01T22:58:13Z",
+                "open_issues": 11,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
                 "stars": 528,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:52:45.007Z",
+    "last_updated": "2026-10-02T22:31:10.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
