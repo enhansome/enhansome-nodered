@@ -30,7 +30,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ## Installation
 
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 539 | 🐛 23 | 🌐 Shell | 📅 2026-09-09
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-01 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-03 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
 * [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-30 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
@@ -126,7 +126,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Smarthome
 
-* [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 599 | 🐛 48 | 🌐 TypeScript | 📅 2026-10-02 - Various nodes using websockets to assist in setting up communication with Home Assistant.
+* [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 599 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-03 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 445 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 204 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 177 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
@@ -139,7 +139,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) ⭐ 80 | 🐛 7 | 🌐 JavaScript | 📅 2026-06-11 - Controls Sonos player in your local network.
 * [loxone](https://github.com/codmpm/node-red-contrib-loxone) ⭐ 78 | 🐛 22 | 🌐 HTML | 📅 2024-04-19 - Connect to the Loxone Miniserver.
 * [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) ⭐ 77 | 🐛 36 | 🌐 HTML | 📅 2018-09-30 - Connect with Home Assistant.
-* [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 69 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-02 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 70 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-02 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 60 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-05 - Controls LG webOS Smart TVs.
 * [fritz](https://github.com/bashgroup/node-red-contrib-fritz) ⭐ 52 | 🐛 15 | 🌐 HTML | 📅 2024-01-26 - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
 * [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-30 - Integrates Z-Wave node based on Z-Wave JS.
@@ -147,7 +147,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [homee](https://github.com/stfnhmplr/node-red-contrib-homee) ⭐ 38 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-24 - Access the homee api and create virtual devices for homee.
 * [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) ⭐ 35 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-22 - Connect with Alexa just wihtin the local network - no extra cloud stuff is required.
 * [tado-client](https://github.com/mattdavis90/node-red-contrib-tado-client) ⭐ 26 | 🐛 18 | 🌐 HTML | 📅 2025-11-07 - Connect to the Tado Web API.
-* [tasmota](https://github.com/DaveMDS/node-red-contrib-tasmota) ⭐ 24 | 🐛 4 | 🌐 HTML | 📅 2024-01-04 - Tasmota devices integration for building automation.
+* [tasmota](https://github.com/DaveMDS/node-red-contrib-tasmota) ⭐ 25 | 🐛 4 | 🌐 HTML | 📅 2024-01-04 - Tasmota devices integration for building automation.
 * [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) ⭐ 21 | 🐛 5 | 🌐 JavaScript | 📅 2021-10-09 - Integrate and control YAMAHA™ audio/video receiver via YNCA protocol.
 * [fritzapi](https://github.com/dnknth/node-red-contrib-fritzapi) ⚠️ Archived - Controls smart home DECT devices and guest wifi through an AVM Fritz!Box.
 * [tahoma](https://github.com/nikkow/node-red-contrib-tahoma) ⭐ 20 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-08 - Controls a Somfy Tahoma box (Roller shutters, etc.).

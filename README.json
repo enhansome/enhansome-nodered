@@ -40,7 +40,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:05:39Z",
+            "last_commit": "2026-10-03T14:23:24Z",
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -1468,8 +1468,8 @@
                 "id": 149000442,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:25:17Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-03T15:17:21Z",
+                "open_issues": 53,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
                 "stars": 599,
@@ -1803,7 +1803,7 @@
                 "open_issues": 15,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "ccu",
                   "homematic",
@@ -2006,7 +2006,7 @@
                 "open_issues": 4,
                 "owner": "DaveMDS",
                 "repo": "node-red-contrib-tasmota",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "home-automation",
                   "node-red",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:47.675Z",
+    "last_updated": "2026-10-03T21:43:27.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
