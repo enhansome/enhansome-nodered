@@ -40,7 +40,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:55:58Z",
+            "last_commit": "2026-10-06T11:24:44Z",
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -109,7 +109,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T04:28:43Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:09.703Z",
+    "last_updated": "2026-10-06T22:46:16.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",

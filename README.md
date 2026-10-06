@@ -30,9 +30,9 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ## Installation
 
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 539 | 🐛 23 | 🌐 Shell | 📅 2026-09-09
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-05 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-06 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-05 - Starts an instance within ioBroker and communicates with it.
+* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-05 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
 * [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
 * [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
