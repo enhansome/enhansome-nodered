@@ -1469,7 +1469,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-03T15:17:21Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
                 "stars": 599,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:17:43.781Z",
+    "last_updated": "2026-10-06T11:08:09.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
