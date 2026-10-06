@@ -35,12 +35,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Node-RED packaged as Addon for the Homematic CCU3 and OpenCCU 🤹‍♂️",
+            "description": "Node-RED packaged as Addon for Homematic CCU3, openccu-lite and OpenCCU 🤹‍♂️",
             "homepage": null,
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T14:23:24Z",
+            "last_commit": "2026-10-05T14:55:58Z",
             "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T12:27:58Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-05T04:28:43Z",
+            "open_issues": 39,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1799,7 +1799,7 @@
                 "id": 131439304,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:18:33Z",
+                "last_commit": "2026-10-05T15:02:23Z",
                 "open_issues": 15,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
@@ -2240,7 +2240,7 @@
                 "open_issues": 13,
                 "owner": "jeroenhe",
                 "repo": "node-red-contrib-openhab3",
-                "stars": 12,
+                "stars": 11,
                 "topics": [
                   "openhab3"
                 ]
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T21:53:01.237Z",
+    "last_updated": "2026-10-06T00:17:43.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
