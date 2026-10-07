@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T04:28:43Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-07T21:02:23Z",
+            "open_issues": 39,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1827,7 +1827,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-05T17:31:19Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "hobbyquaker",
                 "repo": "node-red-contrib-lgtv",
                 "stars": 60,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:46:16.342Z",
+    "last_updated": "2026-10-07T23:17:16.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
