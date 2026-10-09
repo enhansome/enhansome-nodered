@@ -15,7 +15,7 @@
             "id": 63426680,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T14:05:44Z",
+            "last_commit": "2026-10-09T12:53:29Z",
             "open_issues": 23,
             "owner": "node-red",
             "repo": "node-red-docker",
@@ -41,7 +41,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T11:30:22Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "rdmtc",
             "repo": "RedMatic",
             "stars": 528,
@@ -1875,8 +1875,8 @@
                 "id": 323958782,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T06:06:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-09T21:24:49Z",
+                "open_issues": 4,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
                 "stars": 51,
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:32:20.174Z",
+    "last_updated": "2026-10-09T22:51:40.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",

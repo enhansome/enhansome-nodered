@@ -29,8 +29,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ## Installation
 
-* [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 539 | 🐛 23 | 🌐 Shell | 📅 2026-10-08
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-08 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 539 | 🐛 23 | 🌐 Shell | 📅 2026-10-09
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-08 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
 * [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-07 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
@@ -142,7 +142,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 70 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-05 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-08 - Controls LG webOS Smart TVs.
 * [fritz](https://github.com/bashgroup/node-red-contrib-fritz) ⭐ 52 | 🐛 15 | 🌐 HTML | 📅 2024-01-26 - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
-* [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-30 - Integrates Z-Wave node based on Z-Wave JS.
+* [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-09 - Integrates Z-Wave node based on Z-Wave JS.
 * [tuya-smart](https://github.com/hgross/node-red-contrib-tuya-smart) ⭐ 45 | 🐛 6 | 🌐 TypeScript | 📅 2020-09-07 - Interface with smart plugs, bulbs, etc. from tuya.
 * [homee](https://github.com/stfnhmplr/node-red-contrib-homee) ⭐ 38 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-24 - Access the homee api and create virtual devices for homee.
 * [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) ⭐ 35 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-22 - Connect with Alexa just wihtin the local network - no extra cloud stuff is required.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
