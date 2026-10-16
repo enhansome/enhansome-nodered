@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "node-red",
             "repo": "node-red-docker",
-            "stars": 540,
+            "stars": 539,
             "topics": [
               "docker",
               "hacktoberfest",
@@ -40,7 +40,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T09:16:34Z",
+            "last_commit": "2026-10-16T09:09:31Z",
             "open_issues": 3,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T10:37:34Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-16T18:15:57Z",
+            "open_issues": 39,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1197,10 +1197,10 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-01T22:03:43Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "BiancoRoyal",
                 "repo": "node-red-contrib-modbus",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -1242,8 +1242,8 @@
                 "id": 155538725,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-10T16:47:05Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-16T09:09:15Z",
+                "open_issues": 2,
                 "owner": "mindsphere",
                 "repo": "node-red-contrib-mindconnect",
                 "stars": 51,
@@ -1876,7 +1876,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T21:24:49Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
                 "stars": 51,
@@ -3370,7 +3370,7 @@
                 "open_issues": 93,
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
-                "stars": 1406,
+                "stars": 1407,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:43:11.818Z",
+    "last_updated": "2026-10-16T21:38:55.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
