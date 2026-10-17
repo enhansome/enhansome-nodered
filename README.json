@@ -1468,8 +1468,8 @@
                 "id": 149000442,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T01:59:54Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-17T15:18:35Z",
+                "open_issues": 49,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
                 "stars": 602,
@@ -1527,7 +1527,7 @@
                 "open_issues": 0,
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "home-automation",
                   "node-red",
@@ -1552,7 +1552,7 @@
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "eib",
                   "hue",
@@ -3387,7 +3387,7 @@
                 "id": 88643649,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T14:54:01Z",
+                "last_commit": "2026-10-17T10:12:35Z",
                 "open_issues": 1,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:38:55.909Z",
+    "last_updated": "2026-10-17T20:54:17.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
