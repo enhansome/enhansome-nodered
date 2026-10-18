@@ -105,7 +105,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) ⭐ 1,088 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-04 - SNMP receivers for single OIDs or OID tables.
 * [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) ⭐ 1,088 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-04 - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
 * [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) ⭐ 1,088 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-04 - Sends a Wake-On-LAN magic packet to the mac address specified.
-* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 348 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-01 - All in one Modbus TCP and Serial package.
+* [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 349 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-01 - All in one Modbus TCP and Serial package.
 * [s7](https://github.com/st-one-io/node-red-contrib-s7) ⭐ 135 | 🐛 45 | 🌐 HTML | 📅 2026-01-15 - Interact with Siemens S7 PLCs.
 * [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) ⭐ 51 | 🐛 2 | 🌐 HTML | 📅 2026-10-16 - Upload timeseries, files and events to MindSphere.
 * [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) ⭐ 19 | 🐛 13 | 🌐 JavaScript | 📅 2021-01-19 - Single "Xiaomi BLE" node that gets all known data from Xiaomi BLE (Bluetooth 4).
@@ -147,7 +147,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [homee](https://github.com/stfnhmplr/node-red-contrib-homee) ⭐ 38 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-24 - Access the homee api and create virtual devices for homee.
 * [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) ⭐ 35 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-22 - Connect with Alexa just wihtin the local network - no extra cloud stuff is required.
 * [tado-client](https://github.com/mattdavis90/node-red-contrib-tado-client) ⭐ 26 | 🐛 18 | 🌐 HTML | 📅 2025-11-07 - Connect to the Tado Web API.
-* [tasmota](https://github.com/DaveMDS/node-red-contrib-tasmota) ⭐ 25 | 🐛 4 | 🌐 HTML | 📅 2024-01-04 - Tasmota devices integration for building automation.
+* [tasmota](https://github.com/DaveMDS/node-red-contrib-tasmota) ⭐ 25 | 🐛 2 | 🌐 HTML | 📅 2024-01-04 - Tasmota devices integration for building automation.
 * [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) ⭐ 21 | 🐛 5 | 🌐 JavaScript | 📅 2021-10-09 - Integrate and control YAMAHA™ audio/video receiver via YNCA protocol.
 * [fritzapi](https://github.com/dnknth/node-red-contrib-fritzapi) ⚠️ Archived - Controls smart home DECT devices and guest wifi through an AVM Fritz!Box.
 * [tahoma](https://github.com/nikkow/node-red-contrib-tahoma) ⭐ 20 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-08 - Controls a Somfy Tahoma box (Roller shutters, etc.).
@@ -173,7 +173,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,088 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-04 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
 * [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,088 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-04 - Connect to an XMPP server to send and receive messages.
 * [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 982 | 🐛 33 | 🌐 HTML | 📅 2026-09-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
-* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 301 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-11 - Contains a receiver and a sender node which act as a Telegram Bot.
+* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 301 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-18 - Contains a receiver and a sender node which act as a Telegram Bot.
 * [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
 * [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-06 - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
