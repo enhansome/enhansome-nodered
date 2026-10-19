@@ -44,7 +44,7 @@
             "open_issues": 3,
             "owner": "rdmtc",
             "repo": "RedMatic",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "addon",
               "ccu",
@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T18:15:57Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-19T13:53:28Z",
+            "open_issues": 22,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1548,7 +1548,7 @@
                 "id": 198852178,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:21:25Z",
+                "last_commit": "2026-10-19T07:10:29Z",
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:59:36.576Z",
+    "last_updated": "2026-10-19T22:36:34.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
@@ -3478,7 +3478,7 @@
       "open_issues": 1,
       "owner": "naimo84",
       "repo": "awesome-nodered",
-      "stars": 551,
+      "stars": 552,
       "topics": [
         "awesome",
         "awesome-list",
