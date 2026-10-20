@@ -108,8 +108,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T13:53:28Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-20T17:58:39Z",
+            "open_issues": 23,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -145,7 +145,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -169,7 +169,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -200,7 +200,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -224,7 +224,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -248,7 +248,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -418,7 +418,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -442,7 +442,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -466,7 +466,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -490,7 +490,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -514,7 +514,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -545,7 +545,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -569,7 +569,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -593,7 +593,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -617,7 +617,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -641,7 +641,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -665,7 +665,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -689,7 +689,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -713,7 +713,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -737,7 +737,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -761,7 +761,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -785,7 +785,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -809,7 +809,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -833,7 +833,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -857,7 +857,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -881,7 +881,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -905,7 +905,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -929,7 +929,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -953,7 +953,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -977,7 +977,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1008,7 +1008,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1032,7 +1032,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1056,7 +1056,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1080,7 +1080,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1104,7 +1104,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1128,7 +1128,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1152,7 +1152,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1176,7 +1176,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1196,8 +1196,8 @@
                 "id": 79369308,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T22:03:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-20T19:36:05Z",
+                "open_issues": 15,
                 "owner": "BiancoRoyal",
                 "repo": "node-red-contrib-modbus",
                 "stars": 349,
@@ -1242,8 +1242,8 @@
                 "id": 155538725,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-16T09:09:15Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-20T18:38:11Z",
+                "open_issues": 3,
                 "owner": "mindsphere",
                 "repo": "node-red-contrib-mindconnect",
                 "stars": 51,
@@ -1369,7 +1369,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1393,7 +1393,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1417,7 +1417,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1441,7 +1441,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1624,7 +1624,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-14T21:32:15Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "andreypopov",
                 "repo": "node-red-contrib-zigbee2mqtt",
                 "stars": 101,
@@ -2270,7 +2270,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2294,7 +2294,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2318,7 +2318,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2342,7 +2342,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2366,7 +2366,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2390,7 +2390,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2414,7 +2414,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2438,7 +2438,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2462,7 +2462,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2486,7 +2486,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2510,7 +2510,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2556,8 +2556,8 @@
                 "id": 49324815,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T00:42:55Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-20T09:16:24Z",
+                "open_issues": 4,
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 301,
@@ -2814,7 +2814,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2838,7 +2838,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2967,7 +2967,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2991,7 +2991,7 @@
                 "open_issues": 165,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -3370,7 +3370,7 @@
                 "open_issues": 93,
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
-                "stars": 1407,
+                "stars": 1405,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -3387,7 +3387,7 @@
                 "id": 88643649,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T10:12:35Z",
+                "last_commit": "2026-10-20T16:25:51Z",
                 "open_issues": 1,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:36:34.250Z",
+    "last_updated": "2026-10-20T21:49:53.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
