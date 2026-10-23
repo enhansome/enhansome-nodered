@@ -40,7 +40,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T09:32:01Z",
+            "last_commit": "2026-10-23T09:28:40Z",
             "open_issues": 3,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -54,6 +54,8 @@
               "iot",
               "mqtt",
               "node-red",
+              "openccu",
+              "openccu-lite",
               "raspberrymatic",
               "smarthome"
             ]
@@ -1218,7 +1220,7 @@
                 "language": "HTML",
                 "license": "GPL-3.0",
                 "last_commit": "2026-01-15T13:09:24Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "st-one-io",
                 "repo": "node-red-contrib-s7",
                 "stars": 135,
@@ -1548,7 +1550,7 @@
                 "id": 198852178,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T07:10:29Z",
+                "last_commit": "2026-10-23T11:26:31Z",
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
@@ -1808,6 +1810,8 @@
                   "ccu",
                   "homematic",
                   "node-red",
+                  "openccu",
+                  "openccu-lite",
                   "raspberrymatic",
                   "smarthome"
                 ]
@@ -2560,7 +2564,7 @@
                 "open_issues": 3,
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
-                "stars": 301,
+                "stars": 300,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -3466,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:53:48.890Z",
+    "last_updated": "2026-10-23T21:37:28.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
