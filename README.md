@@ -32,7 +32,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 540 | 🐛 16 | 🌐 Shell | 📅 2026-10-21
 * [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-29 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-30 - Starts an instance within ioBroker and communicates with it.
+* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-02 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
 * [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
 * [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
@@ -106,7 +106,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
 * [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Sends a Wake-On-LAN magic packet to the mac address specified.
 * [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) ⭐ 348 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-01 - All in one Modbus TCP and Serial package.
-* [s7](https://github.com/st-one-io/node-red-contrib-s7) ⭐ 135 | 🐛 46 | 🌐 HTML | 📅 2026-01-15 - Interact with Siemens S7 PLCs.
+* [s7](https://github.com/st-one-io/node-red-contrib-s7) ⭐ 136 | 🐛 47 | 🌐 HTML | 📅 2026-01-15 - Interact with Siemens S7 PLCs.
 * [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) ⭐ 51 | 🐛 4 | 🌐 HTML | 📅 2026-10-30 - Upload timeseries, files and events to MindSphere.
 * [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) ⭐ 19 | 🐛 13 | 🌐 JavaScript | 📅 2021-01-19 - Single "Xiaomi BLE" node that gets all known data from Xiaomi BLE (Bluetooth 4).
 * [noble-bluetooth](https://github.com/clausbroch/node-red-contrib-noble-bluetooth) ⭐ 11 | 🐛 11 | 🌐 JavaScript | 📅 2021-07-13 - Based on noble for interaction with Bluetooth Low Energy devices.
@@ -127,7 +127,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ### Smarthome
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 603 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-31 - Various nodes using websockets to assist in setting up communication with Home Assistant.
-* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-21 - Imitate HomeKit devices.
+* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-02 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 205 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-10-27 - Google smart home Action integration via Smart NORA.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
