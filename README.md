@@ -126,23 +126,23 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Smarthome
 
-* [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 603 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-31 - Various nodes using websockets to assist in setting up communication with Home Assistant.
-* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-02 - Imitate HomeKit devices.
+* [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 603 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-03 - Various nodes using websockets to assist in setting up communication with Home Assistant.
+* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 443 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-02 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 205 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
-* [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-10-27 - Google smart home Action integration via Smart NORA.
+* [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-11-03 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⭐ 106 | 🐛 45 | 🌐 HTML | 📅 2026-07-08 - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 * [zigbee2mqtt](https://github.com/andreypopov/node-red-contrib-zigbee2mqtt) ⭐ 101 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-14 - Zigbee2mqtt connectivity.
 * [homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) ⭐ 99 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-05 - Integrate Homebridge Accessories into flows.
 * [zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee) ⚠️ Archived - Controls Zigbee Devices via a CC253x Module.
 * [deconz](https://github.com/deconz-community/node-red-contrib-deconz) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-12 - Access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights via deCONZ.
-* [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) ⭐ 80 | 🐛 7 | 🌐 JavaScript | 📅 2026-06-11 - Controls Sonos player in your local network.
+* [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) ⭐ 80 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-03 - Controls Sonos player in your local network.
 * [loxone](https://github.com/codmpm/node-red-contrib-loxone) ⭐ 78 | 🐛 22 | 🌐 HTML | 📅 2024-04-19 - Connect to the Loxone Miniserver.
 * [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) ⭐ 77 | 🐛 36 | 🌐 HTML | 📅 2018-09-30 - Connect with Home Assistant.
 * [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 70 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-29 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 60 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-28 - Controls LG webOS Smart TVs.
 * [fritz](https://github.com/bashgroup/node-red-contrib-fritz) ⭐ 52 | 🐛 15 | 🌐 HTML | 📅 2024-01-26 - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
-* [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-01 - Integrates Z-Wave node based on Z-Wave JS.
+* [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-03 - Integrates Z-Wave node based on Z-Wave JS.
 * [tuya-smart](https://github.com/hgross/node-red-contrib-tuya-smart) ⭐ 45 | 🐛 6 | 🌐 TypeScript | 📅 2020-09-07 - Interface with smart plugs, bulbs, etc. from tuya.
 * [homee](https://github.com/stfnhmplr/node-red-contrib-homee) ⭐ 38 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-24 - Access the homee api and create virtual devices for homee.
 * [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) ⭐ 35 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-22 - Connect with Alexa just wihtin the local network - no extra cloud stuff is required.
@@ -172,8 +172,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [pushover](https://github.com/node-red/node-red-nodes/tree/master/social/pushover) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Sends alerts via [Pushover](https://pushover.net/).
 * [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
 * [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Connect to an XMPP server to send and receive messages.
-* [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 983 | 🐛 33 | 🌐 HTML | 📅 2026-09-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
-* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 300 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-31 - Contains a receiver and a sender node which act as a Telegram Bot.
+* [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 982 | 🐛 33 | 🌐 HTML | 📅 2026-09-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
+* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 299 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-31 - Contains a receiver and a sender node which act as a Telegram Bot.
 * [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
 * [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-06 - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
@@ -219,11 +219,11 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### UI
 
-* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,406 | 🐛 92 | 🌐 HTML | 📅 2025-08-07 - Create a live data dashboard.
+* [node-red-dashboard](https://github.com/node-red/node-red-dashboard) ⭐ 1,405 | 🐛 92 | 🌐 HTML | 📅 2025-08-07 - Create a live data dashboard.
   * [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - Dashboard extra nodes.
   * [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
   * [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
-* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 528 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-01 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
+* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 528 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-03 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 * [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 118 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-21 - Provide a world map web page for plotting "things" on.
 * [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2022-09-23 - Add browser functionality such as file upload, camera & microphone.
 * [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
