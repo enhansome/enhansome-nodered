@@ -1497,7 +1497,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-02T22:19:32Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "NRCHKB",
                 "repo": "node-red-contrib-homekit-bridged",
                 "stars": 443,
@@ -1626,7 +1626,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-14T21:32:15Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "andreypopov",
                 "repo": "node-red-contrib-zigbee2mqtt",
                 "stars": 101,
@@ -3392,7 +3392,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T17:37:47Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
                 "stars": 528,
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:38:02.373Z",
+    "last_updated": "2026-11-04T23:54:14.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
