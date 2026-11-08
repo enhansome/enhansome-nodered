@@ -3395,7 +3395,7 @@
                 "open_issues": 0,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "css",
                   "dashboard",
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:15:12.716Z",
+    "last_updated": "2026-11-08T22:26:17.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
