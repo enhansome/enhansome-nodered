@@ -40,11 +40,11 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T22:16:52Z",
+            "last_commit": "2026-11-11T12:00:33Z",
             "open_issues": 3,
             "owner": "rdmtc",
             "repo": "RedMatic",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "addon",
               "ccu",
@@ -1550,7 +1550,7 @@
                 "id": 198852178,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T08:55:06Z",
+                "last_commit": "2026-11-11T08:37:38Z",
                 "open_issues": 0,
                 "owner": "Supergiovane",
                 "repo": "node-red-contrib-knx-ultimate",
@@ -1802,7 +1802,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T16:05:00Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
                 "stars": 70,
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:41:05.121Z",
+    "last_updated": "2026-11-12T00:57:51.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
