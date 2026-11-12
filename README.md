@@ -30,9 +30,9 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ## Installation
 
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 539 | 🐛 16 | 🌐 Shell | 📅 2026-10-21
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 527 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-11 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 527 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-12 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-02 - Starts an instance within ioBroker and communicates with it.
+* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-12 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
 * [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
 * [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
@@ -57,7 +57,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [mysql](https://github.com/node-red/node-red-nodes/tree/master/storage/mysql) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Allows basic access to a MySQL database.
 * [sqlite](https://github.com/node-red/node-red-nodes/tree/master/storage/sqlite) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Supports read and write to a local sqlite database.
 * [influxdb](https://github.com/mblackstock/node-red-contrib-influxdb) ⭐ 66 | 🐛 37 | 🌐 HTML | 📅 2026-04-02 - Save and query data from an InfluxDB time series database.
-* [mssql-plus](https://github.com/bestlong/node-red-contrib-mssql-plus) ⭐ 33 | 🐛 22 | 🌐 HTML | 📅 2026-05-13 - Execute queries, stored procedures and bulk inserts in Microsoft SQL Server and Azure Databases SQL2000 \~ SQL2019.
+* [mssql-plus](https://github.com/bestlong/node-red-contrib-mssql-plus) ⭐ 33 | 🐛 23 | 🌐 HTML | 📅 2026-05-13 - Execute queries, stored procedures and bulk inserts in Microsoft SQL Server and Azure Databases SQL2000 \~ SQL2019.
 * [stackhero-influxdb-v2](https://github.com/stackhero-io/node-red-contrib-stackhero-influxdb-v2) ⭐ 31 | 🐛 16 | 🌐 HTML | 📅 2023-03-02 - Save and query data from an InfluxDB v2 time series database.
 * [stackhero-mysql](https://github.com/stackhero-io/node-red-contrib-stackhero-mysql) ⭐ 19 | 🐛 2 | 🌐 HTML | 📅 2026-09-03 - Connect to a MySQL or a MariaDB database, using TLS (SSL) and compatible with "Caching SHA2 password" authentication method (MySQL >= 8).
 
@@ -126,7 +126,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Smarthome
 
-* [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 602 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-09 - Various nodes using websockets to assist in setting up communication with Home Assistant.
+* [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 602 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-12 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-09 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 206 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-11 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
@@ -173,7 +173,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
 * [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Connect to an XMPP server to send and receive messages.
 * [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 981 | 🐛 33 | 🌐 HTML | 📅 2026-09-30 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
-* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 299 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-05 - Contains a receiver and a sender node which act as a Telegram Bot.
+* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 299 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-05 - Contains a receiver and a sender node which act as a Telegram Bot.
 * [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
 * [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-06 - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
@@ -223,7 +223,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
   * [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - Dashboard extra nodes.
   * [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
   * [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
-* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 530 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-10 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
+* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 530 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 * [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 118 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-21 - Provide a world map web page for plotting "things" on.
 * [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2022-09-23 - Add browser functionality such as file upload, camera & microphone.
 * [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
