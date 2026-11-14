@@ -1496,7 +1496,7 @@
                 "id": 129360006,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T08:03:03Z",
+                "last_commit": "2026-11-14T01:39:39Z",
                 "open_issues": 28,
                 "owner": "NRCHKB",
                 "repo": "node-red-contrib-homekit-bridged",
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:49:47.123Z",
+    "last_updated": "2026-11-14T22:42:33.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",

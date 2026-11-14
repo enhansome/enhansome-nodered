@@ -127,7 +127,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ### Smarthome
 
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 601 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-13 - Various nodes using websockets to assist in setting up communication with Home Assistant.
-* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-09 - Imitate HomeKit devices.
+* [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-14 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 206 | 🐛 0 | 🌐 HTML | 📅 2026-09-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
 * [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-11 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
 * [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-11-03 - Google smart home Action integration via Smart NORA.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
