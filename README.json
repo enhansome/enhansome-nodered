@@ -1496,7 +1496,7 @@
                 "id": 129360006,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T01:39:39Z",
+                "last_commit": "2026-11-15T19:29:05Z",
                 "open_issues": 28,
                 "owner": "NRCHKB",
                 "repo": "node-red-contrib-homekit-bridged",
@@ -1526,7 +1526,7 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-23T07:30:20Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Foddy",
                 "repo": "node-red-contrib-huemagic",
                 "stars": 206,
@@ -1879,7 +1879,7 @@
                 "id": 323958782,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T03:52:12Z",
+                "last_commit": "2026-11-15T19:44:45Z",
                 "open_issues": 3,
                 "owner": "zwave-js",
                 "repo": "node-red-contrib-zwave-js",
@@ -3374,7 +3374,7 @@
                 "open_issues": 92,
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
-                "stars": 1405,
+                "stars": 1406,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:42:33.747Z",
+    "last_updated": "2026-11-15T23:08:03.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
