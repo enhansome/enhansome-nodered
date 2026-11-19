@@ -29,8 +29,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ## Installation
 
-* [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 540 | 🐛 17 | 🌐 Shell | 📅 2026-11-17
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 527 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-17 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 540 | 🐛 16 | 🌐 Shell | 📅 2026-11-18
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 527 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-18 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
 * [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-12 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
@@ -172,8 +172,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [pushover](https://github.com/node-red/node-red-nodes/tree/master/social/pushover) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Sends alerts via [Pushover](https://pushover.net/).
 * [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
 * [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) ⭐ 1,089 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-31 - Connect to an XMPP server to send and receive messages.
-* [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 981 | 🐛 33 | 🌐 HTML | 📅 2026-11-13 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
-* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 299 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-05 - Contains a receiver and a sender node which act as a Telegram Bot.
+* [chatbot](https://github.com/guidone/node-red-contrib-chatbot) ⭐ 980 | 🐛 33 | 🌐 HTML | 📅 2026-11-13 - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
+* [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) ⭐ 299 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-18 - Contains a receiver and a sender node which act as a Telegram Bot.
 * [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) ⭐ 56 | 🐛 21 | 🌐 JavaScript | 📅 2024-09-01 - Interact with Discord, via Discord.js.
 * [slack](https://github.com/yayadrian/node-red-slack) ⭐ 24 | 🐛 11 | 🌐 JavaScript | 📅 2025-04-06 - Interact with the Slack API.
 * [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-06 - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
@@ -224,7 +224,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
   * [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
   * [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
 * [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 530 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
-* [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 118 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-21 - Provide a world map web page for plotting "things" on.
+* [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 118 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-21 - Provide a world map web page for plotting "things" on.
 * [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2022-09-23 - Add browser functionality such as file upload, camera & microphone.
 * [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
 * [iglass](https://www.npmjs.com/package/iglass-nodes) - Interaction with [iGlass Automation](https://iglass.international) blocks.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
