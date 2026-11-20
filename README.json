@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "node-red",
             "repo": "node-red-docker",
-            "stars": 540,
+            "stars": 539,
             "topics": [
               "docker",
               "hacktoberfest",
@@ -144,10 +144,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -168,10 +168,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -199,10 +199,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -223,10 +223,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -247,10 +247,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -417,10 +417,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -441,10 +441,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -465,10 +465,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -489,10 +489,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -513,10 +513,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -544,10 +544,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -568,10 +568,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -592,10 +592,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -616,10 +616,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -640,10 +640,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -664,10 +664,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -688,10 +688,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -712,10 +712,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -736,10 +736,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -760,10 +760,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -784,10 +784,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -808,10 +808,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -832,10 +832,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -856,10 +856,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -880,10 +880,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -904,10 +904,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -928,10 +928,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -952,10 +952,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -976,10 +976,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1007,10 +1007,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1031,10 +1031,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1055,10 +1055,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1079,10 +1079,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1103,10 +1103,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1127,10 +1127,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1151,10 +1151,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1175,10 +1175,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1368,10 +1368,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1392,10 +1392,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1416,10 +1416,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1440,10 +1440,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -1470,8 +1470,8 @@
                 "id": 149000442,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T18:17:57Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-19T06:37:33Z",
+                "open_issues": 21,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
                 "stars": 601,
@@ -2271,10 +2271,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2295,10 +2295,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2319,10 +2319,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2343,10 +2343,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2367,10 +2367,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2391,10 +2391,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2415,10 +2415,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2439,10 +2439,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2463,10 +2463,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2487,10 +2487,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2511,10 +2511,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2538,7 +2538,7 @@
                 "open_issues": 33,
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
-                "stars": 980,
+                "stars": 979,
                 "topics": [
                   "chatbot",
                   "messenger",
@@ -2582,7 +2582,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-09-01T23:16:59Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "Markoudstaal",
                 "repo": "node-red-contrib-discord-advanced",
                 "stars": 56,
@@ -2815,10 +2815,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2839,10 +2839,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2968,10 +2968,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -2992,10 +2992,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:31:37Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "node-red",
                 "repo": "node-red-nodes",
-                "stars": 1089,
+                "stars": 1088,
                 "topics": [
                   "hacktoberfest",
                   "node-red"
@@ -3395,7 +3395,7 @@
                 "open_issues": 0,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
-                "stars": 530,
+                "stars": 529,
                 "topics": [
                   "css",
                   "dashboard",
@@ -3430,8 +3430,8 @@
                 "id": 55224434,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T21:34:49Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-19T09:10:22Z",
+                "open_issues": 10,
                 "owner": "dceejay",
                 "repo": "RedMap",
                 "stars": 118,
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:42:30.475Z",
+    "last_updated": "2026-11-20T00:52:32.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
