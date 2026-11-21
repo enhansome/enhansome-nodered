@@ -40,7 +40,7 @@
             "id": 131438939,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T13:15:34Z",
+            "last_commit": "2026-11-20T19:54:43Z",
             "open_issues": 3,
             "owner": "rdmtc",
             "repo": "RedMatic",
@@ -111,7 +111,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T05:08:37Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -1474,7 +1474,7 @@
                 "open_issues": 21,
                 "owner": "zachowj",
                 "repo": "node-red-contrib-home-assistant-websocket",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "home",
                   "home-assistant",
@@ -1598,7 +1598,7 @@
               "description": "Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Node-Red Nodes for interacting with Alexa",
                 "homepage": "https://flows.nodered.org/node/node-red-contrib-alexa-remote2-applestrudel",
                 "id": 373109285,
@@ -1801,7 +1801,7 @@
                 "id": 131439304,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T16:05:00Z",
+                "last_commit": "2026-11-20T18:36:17Z",
                 "open_issues": 17,
                 "owner": "rdmtc",
                 "repo": "node-red-contrib-ccu",
@@ -1961,7 +1961,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-06-22T12:44:27Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "mabunixda",
                 "repo": "node-red-contrib-alexa-home",
                 "stars": 35,
@@ -2561,7 +2561,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-18T21:36:44Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "windkh",
                 "repo": "node-red-contrib-telegrambot",
                 "stars": 299,
@@ -3374,7 +3374,7 @@
                 "open_issues": 92,
                 "owner": "node-red",
                 "repo": "node-red-dashboard",
-                "stars": 1406,
+                "stars": 1405,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:22.229Z"
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:52:32.454Z",
+    "last_updated": "2026-11-21T00:09:30.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
