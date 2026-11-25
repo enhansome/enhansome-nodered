@@ -110,8 +110,8 @@
             "id": 26142417,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T20:52:16Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-24T14:41:19Z",
+            "open_issues": 24,
             "owner": "ioBroker",
             "repo": "ioBroker.node-red",
             "stars": 53,
@@ -2538,7 +2538,7 @@
                 "open_issues": 34,
                 "owner": "guidone",
                 "repo": "node-red-contrib-chatbot",
-                "stars": 979,
+                "stars": 980,
                 "topics": [
                   "chatbot",
                   "messenger",
@@ -3391,7 +3391,7 @@
                 "id": 88643649,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T16:08:45Z",
+                "last_commit": "2026-11-24T18:04:07Z",
                 "open_issues": 0,
                 "owner": "TotallyInformation",
                 "repo": "node-red-contrib-uibuilder",
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:03:37.187Z",
+    "last_updated": "2026-11-25T02:45:11.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of interesting nodes and resources for Node-RED",
@@ -3479,7 +3479,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2023-02-23T06:12:18Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "naimo84",
       "repo": "awesome-nodered",
       "stars": 553,
