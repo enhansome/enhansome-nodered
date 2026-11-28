@@ -30,9 +30,9 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 ## Installation
 
 * [Running under Docker](https://github.com/node-red/node-red-docker) ⭐ 539 | 🐛 16 | 🌐 Shell | 📅 2026-11-18
-* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-26 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) ⭐ 528 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-27 - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) ⭐ 170 | 🐛 26 | 🌐 Shell | 📅 2023-09-12 - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-26 - Starts an instance within ioBroker and communicates with it.
+* [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) ⭐ 53 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-26 - Starts an instance within ioBroker and communicates with it.
 * [Running locally](https://nodered.org/docs/getting-started/local)
 * [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
 * [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
@@ -129,8 +129,8 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) ⭐ 602 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-25 - Various nodes using websockets to assist in setting up communication with Home Assistant.
 * [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) ⭐ 444 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-15 - Imitate HomeKit devices.
 * [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) ⭐ 206 | 🐛 0 | 🌐 HTML | 📅 2026-11-23 - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
-* [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-26 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
-* [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 2 | 🌐 HTML | 📅 2026-11-03 - Google smart home Action integration via Smart NORA.
+* [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-27 - Controls KNX intallation. With optional ETS group address importer and gateway simulation.
+* [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) ⭐ 113 | 🐛 3 | 🌐 HTML | 📅 2026-11-27 - Google smart home Action integration via Smart NORA.
 * [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) ⚠️ Archived - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 * [zigbee2mqtt](https://github.com/andreypopov/node-red-contrib-zigbee2mqtt) ⭐ 102 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-14 - Zigbee2mqtt connectivity.
 * [homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) ⭐ 99 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-05 - Integrate Homebridge Accessories into flows.
@@ -139,7 +139,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 * [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) ⭐ 80 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-03 - Controls Sonos player in your local network.
 * [loxone](https://github.com/codmpm/node-red-contrib-loxone) ⭐ 78 | 🐛 22 | 🌐 HTML | 📅 2024-04-19 - Connect to the Loxone Miniserver.
 * [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) ⭐ 77 | 🐛 36 | 🌐 HTML | 📅 2018-09-30 - Connect with Home Assistant.
-* [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 70 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-25 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+* [ccu](https://github.com/rdmtc/node-red-contrib-ccu) ⭐ 70 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-27 - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 * [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) ⭐ 62 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-25 - Controls LG webOS Smart TVs.
 * [fritz](https://github.com/bashgroup/node-red-contrib-fritz) ⭐ 52 | 🐛 15 | 🌐 HTML | 📅 2024-01-26 - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
 * [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) ⭐ 51 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-26 - Integrates Z-Wave node based on Z-Wave JS.
@@ -223,7 +223,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
   * [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - Dashboard extra nodes.
   * [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
   * [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
-* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 529 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-26 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
+* [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) ⭐ 529 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-27 - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 * [web-worldmap](https://github.com/dceejay/RedMap) ⭐ 118 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-19 - Provide a world map web page for plotting "things" on.
 * [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2022-09-23 - Add browser functionality such as file upload, camera & microphone.
 * [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
@@ -249,4 +249,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
